@@ -4,7 +4,7 @@ This contains art-work of Gophers, so you can maximize your Gopheriness
 on any site, logo or presentation.
 
 If you have some ideas or need something particular and can't find it -
-just let me know. Of course pull requests of modifications and alternations
+just make a issue request for it. Of course pull requests of modifications and alternations
 are welcome - as long as you use the same license.
 
 Go [Gopher](https://blog.golang.org/gopher) was created by
