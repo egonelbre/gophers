@@ -5,6 +5,8 @@ on any site, logo or presentation.
 
 The images and art-work in this repository are under CC0 license.
 
+![Collage](https://raw.github.com/egonelbre/gophers/master/collage.jpg)
+
 If you wish to help out, you can submit ideas as an issue request. Alternatively
 you can also make pull-requests, but these images need to be original work or
 based on content in this repository. (Note, by making a pull-request I will
