@@ -3,9 +3,11 @@ package main
 import (
 	"flag"
 	"log"
-	"math/rand"
 	"os"
 	"path/filepath"
+	"sort"
+	"strings"
+	"time"
 
 	"image"
 	"image/color"
@@ -21,6 +23,17 @@ var (
 	cellsize = flag.Int("s", 128, "cell width/height")
 	output   = flag.String("o", "collage.jpg", "output file")
 )
+
+type Item struct {
+	Name  string
+	Image image.Image
+}
+
+type Items []Item
+
+func (xs Items) Len() int           { return len(xs) }
+func (xs Items) Swap(i, j int)      { xs[i], xs[j] = xs[j], xs[i] }
+func (xs Items) Less(i, j int) bool { return xs[i].Name < xs[j].Name }
 
 func main() {
 	flag.Parse()
@@ -44,20 +57,25 @@ func main() {
 		if (filepath.Ext(path) != ".png" && filepath.Ext(path) != ".jpg") || path == *output {
 			return nil
 		}
+		if strings.Contains(path, ".sketch.") {
+			return nil
+		}
 
 		files = append(files, filepath.Join(dir, path))
 		return nil
 	})
 
-	ordered := []image.Image{}
+	ordered := Items{}
 	for _, path := range files {
 		file, err := os.Open(path)
 		if err != nil {
 			log.Println(path, err)
 			continue
 		}
+		stat, _ := file.Stat()
 		m, _, err := image.Decode(file)
 		file.Close()
+
 		if err != nil {
 			continue
 		}
@@ -65,12 +83,17 @@ func main() {
 		if sz.X < 64 || sz.Y < 64 {
 			continue
 		}
-		ordered = append(ordered, m)
+		ordered = append(ordered, Item{
+			Name:  stat.ModTime().Format(time.RFC3339),
+			Image: m,
+		})
 	}
 
+	sort.Sort(ordered)
+
 	images := make([]image.Image, len(ordered))
-	for src, dst := range rand.Perm(len(ordered)) {
-		images[dst] = ordered[src]
+	for i, item := range ordered {
+		images[i] = item.Image
 	}
 
 	cols := *colnum
