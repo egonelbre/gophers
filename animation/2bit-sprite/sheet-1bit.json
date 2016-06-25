@@ -1,0 +1,265 @@
+{ "frames": [
+   {
+    "filename": "2bit-sprite 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 1.ase",
+    "frame": { "x": 12, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 2.ase",
+    "frame": { "x": 24, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 3.ase",
+    "frame": { "x": 36, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 4.ase",
+    "frame": { "x": 48, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 5.ase",
+    "frame": { "x": 60, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 6.ase",
+    "frame": { "x": 72, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 7.ase",
+    "frame": { "x": 84, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 8.ase",
+    "frame": { "x": 96, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 9.ase",
+    "frame": { "x": 108, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 10.ase",
+    "frame": { "x": 120, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 11.ase",
+    "frame": { "x": 132, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 12.ase",
+    "frame": { "x": 144, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 13.ase",
+    "frame": { "x": 156, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 14.ase",
+    "frame": { "x": 168, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 15.ase",
+    "frame": { "x": 180, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 16.ase",
+    "frame": { "x": 192, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 17.ase",
+    "frame": { "x": 204, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 18.ase",
+    "frame": { "x": 216, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 19.ase",
+    "frame": { "x": 228, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 20.ase",
+    "frame": { "x": 240, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 21.ase",
+    "frame": { "x": 252, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 22.ase",
+    "frame": { "x": 264, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 23.ase",
+    "frame": { "x": 276, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 24.ase",
+    "frame": { "x": 288, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 25.ase",
+    "frame": { "x": 300, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   },
+   {
+    "filename": "2bit-sprite 26.ase",
+    "frame": { "x": 312, "y": 0, "w": 12, "h": 14 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 14 },
+    "sourceSize": { "w": 12, "h": 14 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.1.5.7",
+  "image": "sheet-1bit.bmp",
+  "format": "I8",
+  "size": { "w": 324, "h": 14 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Front", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "FrontBlink", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "LookUp", "from": 2, "to": 2, "direction": "forward" },
+   { "name": "Left", "from": 3, "to": 7, "direction": "forward" },
+   { "name": "LeftRight", "from": 4, "to": 6, "direction": "forward" },
+   { "name": "LeftBlink", "from": 7, "to": 7, "direction": "forward" },
+   { "name": "Walk", "from": 8, "to": 15, "direction": "forward" },
+   { "name": "Run", "from": 16, "to": 23, "direction": "forward" },
+   { "name": "Jump", "from": 24, "to": 26, "direction": "forward" }
+  ]
+ }
+}
