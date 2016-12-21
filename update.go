@@ -41,6 +41,9 @@ However, if you do use something, you are encouraged to:
 Do note that, the Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/).
 The Gopher character design is licensed under the Creative Commons 3.0 Attributions license.
 Read http://blog.golang.org/gopher for more details.
+
+<img src=".thumb/animation/2bit-sprite/demo.gif ">
+
 `
 
 const VECTOR_HEADER = `
