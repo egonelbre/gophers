@@ -307,7 +307,7 @@ func main() {
 	file.Write(CreateThumbsIndex(false, vectors))
 
 	fmt.Fprintf(file, "%v\n", SKETCHES_HEADER)
-	file.Write(CreateThumbsIndex(true, sketches))
+	file.Write(CreateThumbsIndex(false, sketches))
 }
 
 func CreateThumbsIndex(withtitle bool, thumbsets []*Thumbs) []byte {
