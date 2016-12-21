@@ -171,9 +171,19 @@ type Thumbs struct {
 
 func (thumbs *Thumbs) ExportSVG(actual, out string) {
 	os.MkdirAll(filepath.Dir(out), 0755)
+	os.Remove(out)
+
 	// inkscape -h 128 -e hiking.png hiking.svg
-	cmd := exec.Cmd(InkscapePath, "-h", strconv.Itoa(thumbs.Size), "-e", out, actual)
+	cmd := exec.Command(InkscapePath,
+		"-h", strconv.Itoa(thumbs.Size),
+		"-e", out,
+		actual)
 	cmd.Run()
+
+	thumbs.Links = append(thumbs.Links, ImageLink{
+		Actual: actual,
+		Thumb:  out,
+	})
 }
 
 func (thumbs *Thumbs) Downscale(actual, out string, m image.Image) image.Image {
@@ -266,6 +276,25 @@ func main() {
 		}
 	}
 
+	dirs, _ = ioutil.ReadDir("vector")
+	sort.Sort(FileInfos(dirs))
+
+	vectors := []*Thumbs{}
+	for _, dir := range dirs {
+		if !dir.IsDir() {
+			continue
+		}
+
+		thumbs := MakeThumbs(
+			strings.Title(dir.Name()),
+			filepath.Join("vector", dir.Name()),
+			filepath.Join(".thumb", "vector", dir.Name()))
+
+		if thumbs != nil {
+			vectors = append(vectors, thumbs)
+		}
+	}
+
 	file, err := os.Create("README.md")
 	if err != nil {
 		panic(err)
@@ -273,9 +302,11 @@ func main() {
 	defer file.Close()
 
 	fmt.Fprintf(file, "%v\n", README_HEADER)
-	fmt.Fprintf(file, "%v\n", VECTOR_HEADER)
-	fmt.Fprintf(file, "%v\n", SKETCHES_HEADER)
 
+	fmt.Fprintf(file, "%v\n", VECTOR_HEADER)
+	file.Write(CreateThumbsIndex(false, vectors))
+
+	fmt.Fprintf(file, "%v\n", SKETCHES_HEADER)
 	file.Write(CreateThumbsIndex(true, sketches))
 }
 
@@ -284,7 +315,7 @@ func CreateThumbsIndex(withtitle bool, thumbsets []*Thumbs) []byte {
 
 	for _, thumbs := range thumbsets {
 		if withtitle {
-			fmt.Fprintf(&buf, "### [%v](%v)\n\n",
+			fmt.Fprintf(&buf, "\n### [%v](%v)\n\n",
 				thumbs.Name,
 				filepath.ToSlash(thumbs.Folder))
 		}
@@ -294,9 +325,8 @@ func CreateThumbsIndex(withtitle bool, thumbsets []*Thumbs) []byte {
 				filepath.ToSlash(thumb.Thumb),
 				filepath.ToSlash(thumb.Actual))
 		}
-
-		fmt.Fprintf(&buf, "\n\n")
 	}
+	fmt.Fprintf(&buf, "\n\n")
 
 	return buf.Bytes()
 }
@@ -305,7 +335,7 @@ func CreateCollageIndex(withtitle bool, collages []*Collage) []byte {
 	var buf bytes.Buffer
 	for _, collage := range collages {
 		if withtitle {
-			fmt.Fprintf(&buf, "### [%v](%v)\n\n",
+			fmt.Fprintf(&buf, "\n### [%v](%v)\n\n",
 				collage.Name,
 				filepath.ToSlash(collage.Folder))
 		}
@@ -329,8 +359,6 @@ func CreateCollageIndex(withtitle bool, collages []*Collage) []byte {
 			fmt.Fprintf(&buf, "</div>\n\n")
 		*/
 	}
-
-	fmt.Fprintf(&buf, "\n\n")
 
 	return buf.Bytes()
 }

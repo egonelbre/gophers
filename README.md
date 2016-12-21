@@ -19,11 +19,31 @@ Read http://blog.golang.org/gopher for more details.
 Here are svg images that can be modified for your own needs.
 
 
+[<img src=".thumb/vector/adventure/hiking.png">](vector/adventure/hiking.svg)
+[<img src=".thumb/vector/arts/ballet.png">](vector/arts/ballet.svg)
+[<img src=".thumb/vector/arts/upright.png">](vector/arts/upright.svg)
+[<img src=".thumb/vector/dandy/umbrella.png">](vector/dandy/umbrella.svg)
+[<img src=".thumb/vector/fairy-tale/witch-learning.png">](vector/fairy-tale/witch-learning.svg)
+[<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
+[<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
+[<img src=".thumb/vector/friends/hugging-docker.png">](vector/friends/hugging-docker.svg)
+[<img src=".thumb/vector/friends/liberty.png">](vector/friends/liberty.svg)
+[<img src=".thumb/vector/party/birthday.png">](vector/party/birthday.svg)
+[<img src=".thumb/vector/projects/surfing-js.png">](vector/projects/surfing-js.svg)
+[<img src=".thumb/vector/projects/vim-go.png">](vector/projects/vim-go.svg)
+[<img src=".thumb/vector/projects/with-C-book.png">](vector/projects/with-C-book.svg)
+[<img src=".thumb/vector/science/power-to-the-masses.png">](vector/science/power-to-the-masses.svg)
+[<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
+[<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
+[<img src=".thumb/vector/superhero/standing.png">](vector/superhero/standing.svg)
+
+
 
 # Sketches
 
 Here are several hand-drawn images. Let me know if you would like to
 see a particular one be vectorized.
+
 
 
 ### [Adventure](sketch/adventure)
@@ -36,13 +56,11 @@ see a particular one be vectorized.
 [<img src=".thumb/sketch/adventure/poking-fire.png">](sketch/adventure/poking-fire.png)
 [<img src=".thumb/sketch/adventure/pushing-cart.png">](sketch/adventure/pushing-cart.png)
 
-
 ### [Arts](sketch/arts)
 
 [<img src=".thumb/sketch/arts/ballet-v2.png">](sketch/arts/ballet-v2.png)
 [<img src=".thumb/sketch/arts/ballet.png">](sketch/arts/ballet.png)
 [<img src=".thumb/sketch/arts/saxophone.png">](sketch/arts/saxophone.png)
-
 
 ### [Convict](sketch/convict)
 
@@ -50,13 +68,11 @@ see a particular one be vectorized.
 [<img src=".thumb/sketch/convict/hard-times.png">](sketch/convict/hard-times.png)
 [<img src=".thumb/sketch/convict/working-hard.png">](sketch/convict/working-hard.png)
 
-
 ### [Dandy](sketch/dandy)
 
 [<img src=".thumb/sketch/dandy/raining.png">](sketch/dandy/raining.png)
 [<img src=".thumb/sketch/dandy/standing.png">](sketch/dandy/standing.png)
 [<img src=".thumb/sketch/dandy/umbrella.png">](sketch/dandy/umbrella.png)
-
 
 ### [Fairy-Tale](sketch/fairy-tale)
 
@@ -74,13 +90,11 @@ see a particular one be vectorized.
 [<img src=".thumb/sketch/fairy-tale/witch-old.png">](sketch/fairy-tale/witch-old.png)
 [<img src=".thumb/sketch/fairy-tale/witch-too-much-candy.png">](sketch/fairy-tale/witch-too-much-candy.png)
 
-
 ### [Friends](sketch/friends)
 
 [<img src=".thumb/sketch/friends/docker.png">](sketch/friends/docker.png)
 [<img src=".thumb/sketch/friends/hugging-docker-pink.png">](sketch/friends/hugging-docker-pink.png)
 [<img src=".thumb/sketch/friends/hugging-docker.png">](sketch/friends/hugging-docker.png)
-
 
 ### [Misc](sketch/misc)
 
@@ -89,12 +103,10 @@ see a particular one be vectorized.
 [<img src=".thumb/sketch/misc/standing-v2.png">](sketch/misc/standing-v2.png)
 [<img src=".thumb/sketch/misc/with-candy.png">](sketch/misc/with-candy.png)
 
-
 ### [Projects](sketch/projects)
 
 [<img src=".thumb/sketch/projects/surfing-js.png">](sketch/projects/surfing-js.jpg)
 [<img src=".thumb/sketch/projects/with-C-book.png">](sketch/projects/with-C-book.jpg)
-
 
 ### [Science](sketch/science)
 
@@ -103,7 +115,6 @@ see a particular one be vectorized.
 [<img src=".thumb/sketch/science/lightbulb.png">](sketch/science/lightbulb.png)
 [<img src=".thumb/sketch/science/power-to-the-masses.png">](sketch/science/power-to-the-masses.png)
 [<img src=".thumb/sketch/science/welding.png">](sketch/science/welding.png)
-
 
 ### [Superhero](sketch/superhero)
 
