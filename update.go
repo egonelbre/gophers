@@ -7,8 +7,10 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"sort"
+	"strconv"
 	"strings"
 
 	"image"
@@ -22,7 +24,7 @@ const (
 	ThumbnailSize = 128
 	MaxColumns    = 6
 
-	CollageFolder = "collage"
+	InkscapePath = `c:\Program Files\Inkscape\inkscape.exe`
 )
 
 const README_HEADER = `
@@ -167,6 +169,13 @@ type Thumbs struct {
 	Links  []ImageLink
 }
 
+func (thumbs *Thumbs) ExportSVG(actual, out string) {
+	os.MkdirAll(filepath.Dir(out), 0755)
+	// inkscape -h 128 -e hiking.png hiking.svg
+	cmd := exec.Cmd(InkscapePath, "-h", strconv.Itoa(thumbs.Size), "-e", out, actual)
+	cmd.Run()
+}
+
 func (thumbs *Thumbs) Downscale(actual, out string, m image.Image) image.Image {
 	targetSize := image.Point{0, thumbs.Size}
 	targetSize.X = m.Bounds().Dx() * thumbs.Size / m.Bounds().Dy()
@@ -212,14 +221,20 @@ func MakeThumbs(name, folder, output string) *Thumbs {
 	for _, file := range files {
 		path := filepath.Join(folder, file.Name())
 		log.Printf("> add: %v\n", path)
+
+		outpath := filepath.Join(output, file.Name())
+		outpath = ReplaceExt(outpath, ".png")
+
+		if filepath.Ext(path) == ".svg" {
+			thumbs.ExportSVG(path, outpath)
+			continue
+		}
+
 		m, err := LoadImage(path)
 		if err != nil {
 			log.Printf("> error: %v\n", err)
 			continue
 		}
-
-		outpath := filepath.Join(output, file.Name())
-		outpath = ReplaceExt(outpath, ".png")
 
 		out := thumbs.Downscale(path, outpath, m)
 		if err := SavePNG(out, outpath); err != nil {

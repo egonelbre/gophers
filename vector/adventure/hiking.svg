@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="208.23656mm"
+   height="157.00354mm"
+   viewBox="0 0 737.84607 556.31175"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -164,9 +164,9 @@
        xlink:href="#gopher-lines"
        id="linearGradient4168"
        x1="776.14288"
-       y1="39.50506"
-       x2="822.4286"
-       y2="39.50506"
+       y1="39.505058"
+       x2="822.42859"
+       y2="39.505058"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.92105265,0,0,0.92105265,63.815727,5.9759639)" />
     <linearGradient
@@ -174,9 +174,9 @@
        xlink:href="#gopher-eye"
        id="linearGradient4180"
        x1="776.14288"
-       y1="90.770306"
-       x2="822.4286"
-       y2="90.770306"
+       y1="90.770309"
+       x2="822.42859"
+       y2="90.770309"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.92105266,0,0,0.92105266,108.81569,-41.242026)" />
     <linearGradient
@@ -185,7 +185,7 @@
        id="linearGradient4265"
        x1="198.05417"
        y1="374.50043"
-       x2="263.28684"
+       x2="263.28683"
        y2="374.50043"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.7962842,0.36029364,0.36029364,0.7962842,337.76123,77.296543)" />
@@ -211,9 +211,9 @@
        inkscape:collect="always"
        xlink:href="#gopher-iris"
        id="linearGradient4319"
-       x1="427.26478"
+       x1="427.26477"
        y1="316.13431"
-       x2="488.88408"
+       x2="488.88409"
        y2="316.13431"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.7962842,0.36029364,-0.36029364,0.7962842,340.1339,73.463964)" />
@@ -264,13 +264,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3827639"
-     inkscape:cx="185.38393"
-     inkscape:cy="496.2305"
+     inkscape:cx="-199.75746"
+     inkscape:cy="223.439"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1017"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -278,12 +278,18 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-global="false"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5">
     <inkscape:grid
        type="xygrid"
-       id="grid4305" />
+       id="grid4305"
+       originx="0.2136505"
+       originy="-272.79149" />
     <sodipodi:guide
-       position="492.67006,1306.8722"
+       position="492.88371,1034.0806"
        orientation="0,1"
        id="guide4285" />
   </sodipodi:namedview>
@@ -295,7 +301,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -303,7 +309,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="background"
-     style="display:none">
+     style="display:none"
+     transform="translate(0.2136505,-223.25895)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e1db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4461"
@@ -319,7 +326,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="ground">
+     inkscape:label="ground"
+     transform="translate(0.2136505,-223.25895)">
     <path
        sodipodi:nodetypes="cccccccccccccccccccccscsssssssssssssssc"
        inkscape:connector-curvature="0"
@@ -336,7 +344,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="backpack-mat">
+     inkscape:label="backpack-mat"
+     transform="translate(0.2136505,-223.25895)">
     <path
        inkscape:connector-curvature="0"
        id="path4385"
@@ -393,7 +402,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="backpack"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     transform="translate(0.2136505,-223.25895)">
     <path
        style="fill:#284021;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 220.38177,374.44664 c -4.6494,-17.85585 -18.54163,-27.75249 -39.51522,-30.69778 -4.93476,-7.12181 -7.94361,-13.53945 -17.96147,-18.61461 -10.3846,-2.04767 -24.31788,-4.02658 -39.51521,-0.32657 -8.61109,17.58916 -14.62927,48.62064 -4.24544,65.96756 16.34419,27.30411 52.67337,31.32964 82.62273,20.57404 16.02597,-5.75535 22.9054,-20.42402 18.61461,-36.90264 z"
@@ -510,7 +520,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="gopher-hands-back"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0.2136505,-223.25895)">
     <g
        style="display:inline;opacity:1"
        transform="matrix(-0.4942271,-0.07737775,-0.02724163,0.69122313,709.62053,127.13426)"
@@ -550,7 +561,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="gopher-body"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     transform="translate(0.2136505,-223.25895)">
     <g
        style="display:inline"
        id="g4533-2"
@@ -625,7 +637,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="gopher-face"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0.2136505,-223.25895)">
     <g
        style="display:inline;opacity:1"
        transform="matrix(-0.36191901,-0.40248153,-0.40248153,0.36191901,803.46943,445.82245)"
@@ -756,7 +769,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="gopher-hands"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0.2136505,-223.25895)">
     <g
        id="g4533"
        transform="matrix(-0.00293744,-0.50023906,-0.6866362,0.08403721,744.37484,669.63842)">
@@ -779,7 +793,8 @@
      id="layer4"
      inkscape:label="palette"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0.2136505,-223.25895)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4168);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.21052647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4162"
