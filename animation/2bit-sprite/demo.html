@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Gophers</title>
+	<link rel="stylesheet" href="">
+	<style>
+		canvas {
+			width: 800px;
+			height: 640px;
+
+			border: 1px solid #000;
+			image-rendering: optimizeSpeed;             /* Older versions of FF          */
+			image-rendering: -moz-crisp-edges;          /* FF 6.0+                       */
+			image-rendering: -webkit-optimize-contrast; /* Safari                        */
+			image-rendering: -o-crisp-edges;            /* OS X & Windows Opera (12.02+) */
+			image-rendering: pixelated;                 /* Awesome future-browsers       */
+			-ms-interpolation-mode: nearest-neighbor;   /* IE                            */
+		}
+	</style>
+</head>
+<canvas id="view"></canvas>
+
+<br>
+<img id="1bit" src="sheet-1bit.bmp">
+<br>
+<img id="2bit" src="sheet.png">
+<br>
+
+<script>
+var canvas = document.getElementById("view");
+var context = canvas.getContext("2d");
+
+canvas.width = 800 / 4;
+canvas.height = 640 / 4;
+
+var frame = 0;
+var sheet1 = document.getElementById("1bit")
+var sheet2 = document.getElementById("2bit")
+
+function drawFrame(sheet, frame, at){
+	var frame = (frame | 0) % 27;
+	context.drawImage(sheet, frame * 12, 0, 12, 14, at.x, at.y, 12, 14);
+}
+
+function animate(sheet, frame, span, at, flip){
+	var frame = (frame|0) % span.length;
+	context.save();
+	context.translate(at.x|0, at.y|0)
+	if(flip){
+		context.scale(-1, 1);
+	}
+	context.drawImage(sheet, span[frame] * 12, 0, 12, 14, (flip ? -12 : 0), 0, 12, 14);
+	context.restore();
+}
+
+var x = 0;
+
+var keyboard = {
+	pressed: {},
+	released: {},
+	down: function(key){
+		return keyboard.pressed[key];
+	},
+	clear: function(){
+		for(var key in keyboard.released){
+			if(keyboard.released[key]){
+				keyboard.pressed[key] = false;
+			}
+		}
+		keyboard.released = {};
+	}
+};
+document.onkeydown = function(ev){ keyboard.pressed[ev.keyCode]  = true; };
+document.onkeyup   = function(ev){ keyboard.released[ev.keyCode] = true; };
+
+var gopher = {
+	pos: {x: 0, y: 0},
+	vel: {x: 0, y: 0},
+	jumping: false
+};
+
+var FRONT = [3,3,3,3,3,3,4,4,4,4,3,3,3,3,7,3,7,3,3,3,3,3,5,5,3,3,3,3,7,7];
+var RUN   = [16,17,18,19,20,21,22,23];
+var WALK  = [8,9,10,11,12,13,14,15];
+
+var JUMP_RISE  = [24];
+var JUMP_FLOAT = [25];
+var JUMP_FALL  = [26];
+
+function draw(frame, span, pos, flip){
+	animate(sheet1, frame, span, {x:32 + pos.x, y:32 + pos.y}, flip);
+	animate(sheet2, frame, span, {x:32 + pos.x, y:128 + pos.y}, flip);
+}
+
+var now = (new Date())|0;
+
+window.setInterval(function(){
+	var next = (new Date())|0;
+	var dt = (next - now) / 1000.0;
+	now = next;
+
+	var dx = 0;
+	if(keyboard.down(39)){ dx += 1.0; }
+	if(keyboard.down(37)){ dx -= 1.0; }
+	if(keyboard.down(38)){
+		if(!gopher.jumping){
+			gopher.vel.y = -50;
+		}
+		gopher.jumping = true;
+	}
+
+	gopher.vel.x += dx * dt * 400;
+	gopher.vel.x *= Math.pow(0.01, dt);
+
+	gopher.vel.y += dt * 120;
+	if(gopher.pos.y > 0) {
+		gopher.vel.y = 0;
+		gopher.pos.y = 0;
+		gopher.jumping = false;
+	}
+
+	gopher.pos.x += gopher.vel.x * dt;
+	gopher.pos.y += gopher.vel.y * dt;
+
+	// gopher.pos.x += dx * dt * 100;
+
+	context.fillStyle = "#eed";
+	context.fillStyle = "#fafafa";
+	context.fillRect(0,0,1024,1024);
+
+	context.fillStyle = "#f0f";
+	context.fillRect(0,0,1024,48);
+
+	context.fillStyle = "#8bb752";
+	context.fillRect(0,128+14,1024,1024);
+
+	if(gopher.pos.y < 0){
+		if(Math.abs(gopher.vel.y) < 10){
+			draw(frame, JUMP_FLOAT, gopher.pos, gopher.vel.x > 0);
+		} else if (gopher.vel.y > 0) {
+			draw(frame, JUMP_FALL, gopher.pos, gopher.vel.x > 0);
+		} else {
+			draw(frame, JUMP_RISE, gopher.pos, gopher.vel.x > 0);
+		}
+	} else {
+		if(Math.abs(gopher.vel.x) < 1){
+			frame += 0.15;
+			draw(frame, FRONT, gopher.pos, gopher.vel.x > 0);
+		} else {
+			if(Math.abs(gopher.vel.x) < 52){
+				draw(frame, WALK, gopher.pos, gopher.vel.x > 0);
+			} else {
+				draw(frame, RUN, gopher.pos, gopher.vel.x > 0);
+			}
+		}
+	}
+
+	frame += Math.abs(gopher.vel.x * dt) * 0.2;
+
+	keyboard.clear();
+}, 10);
+</script>
