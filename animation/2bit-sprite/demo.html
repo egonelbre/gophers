@@ -137,7 +137,8 @@ window.setInterval(function(){
 	context.fillRect(0,128+14,1024,1024);
 
 	if(gopher.pos.y < 0){
-		if(Math.abs(gopher.vel.y) < 10){
+		if((Math.abs(gopher.vel.x) < 10) || 
+			(Math.abs(gopher.vel.y) < 10)){
 			draw(frame, JUMP_FLOAT, gopher.pos, gopher.vel.x > 0);
 		} else if (gopher.vel.y > 0) {
 			draw(frame, JUMP_FALL, gopher.pos, gopher.vel.x > 0);
@@ -146,7 +147,7 @@ window.setInterval(function(){
 		}
 	} else {
 		if(Math.abs(gopher.vel.x) < 1){
-			frame += 0.15;
+			frame += 8 * dt;
 			draw(frame, FRONT, gopher.pos, gopher.vel.x > 0);
 		} else {
 			if(Math.abs(gopher.vel.x) < 52){
