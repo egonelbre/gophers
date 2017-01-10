@@ -32,6 +32,8 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/friends/hugging-docker.png">](vector/friends/hugging-docker.svg)
 [<img src=".thumb/vector/friends/liberty.png">](vector/friends/liberty.svg)
 [<img src=".thumb/vector/party/birthday.png">](vector/party/birthday.svg)
+[<img src=".thumb/vector/projects/network-side.png">](vector/projects/network-side.svg)
+[<img src=".thumb/vector/projects/network.png">](vector/projects/network.svg)
 [<img src=".thumb/vector/projects/surfing-js.png">](vector/projects/surfing-js.svg)
 [<img src=".thumb/vector/projects/vim-go.png">](vector/projects/vim-go.svg)
 [<img src=".thumb/vector/projects/with-C-book.png">](vector/projects/with-C-book.svg)
