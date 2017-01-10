@@ -15,6 +15,8 @@ Read http://blog.golang.org/gopher for more details.
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
 
+
+
 # Vector
 
 Here are svg images that can be modified for your own needs.
@@ -36,6 +38,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/science/power-to-the-masses.png">](vector/science/power-to-the-masses.svg)
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
+[<img src=".thumb/vector/science/soldering.png">](vector/science/soldering.svg)
 [<img src=".thumb/vector/superhero/standing.png">](vector/superhero/standing.svg)
 
 
@@ -44,6 +47,7 @@ Here are svg images that can be modified for your own needs.
 
 Here are several hand-drawn images. Let me know if you would like to
 see a particular one be vectorized.
+
 
 [<img src=".thumb/sketch/adventure/hiking.png">](sketch/adventure/hiking.png)
 [<img src=".thumb/sketch/adventure/pirate-boat.png">](sketch/adventure/pirate-boat.png)
