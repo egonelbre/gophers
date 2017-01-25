@@ -29,6 +29,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/fairy-tale/witch-learning.png">](vector/fairy-tale/witch-learning.svg)
 [<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
+[<img src=".thumb/vector/friends/empire-silhouette.png">](vector/friends/empire-silhouette.svg)
 [<img src=".thumb/vector/friends/hugging-docker.png">](vector/friends/hugging-docker.svg)
 [<img src=".thumb/vector/friends/liberty.png">](vector/friends/liberty.svg)
 [<img src=".thumb/vector/party/birthday.png">](vector/party/birthday.svg)
