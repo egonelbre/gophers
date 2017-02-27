@@ -227,9 +227,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="130.44409"
-     inkscape:cy="369.53459"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="-374.97595"
+     inkscape:cy="546.48855"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -270,18 +270,17 @@
      id="layer11"
      inkscape:label="background"
      style="display:none"
-     sodipodi:insensitive="true"
      transform="translate(-69.745994,-18.112813)">
     <rect
        style="fill:#e3e5e8;fill-opacity:1;stroke:none;stroke-width:2.88878155;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4879"
-       width="682.5"
-       height="682.5"
-       x="-54.687553"
-       y="-11.916822"
+       width="823.03748"
+       height="823.03748"
+       x="-131.58542"
+       y="-123.28615"
        inkscape:export-filename="..\..\~rendered\stovepipe-hat-front.png"
-       inkscape:export-xdpi="67.519997"
-       inkscape:export-ydpi="67.519997" />
+       inkscape:export-xdpi="80.373016"
+       inkscape:export-ydpi="80.373016" />
     <ellipse
        style="fill:#c5cacf;fill-opacity:1;stroke:none;stroke-width:4.09883165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4875"
