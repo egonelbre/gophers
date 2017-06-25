@@ -15,6 +15,8 @@ Read http://blog.golang.org/gopher for more details.
 
 <img src=".thumb/animation/morning-coffee-3x.gif ">
 
+<img src=".thumb/animation/gopher-dance-long-3x.gif ">
+
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
 
 
