@@ -13,8 +13,7 @@ Do note that, the Go gopher was designed by [Renee French](http://reneefrench.bl
 The Gopher character design is licensed under the Creative Commons 3.0 Attributions license.
 Read http://blog.golang.org/gopher for more details.
 
-<img src=".thumb/animation/morning-coffee-3x.gif ">
-<img src=".thumb/animation/gopher-dance-long-3x.gif ">
+<img src=".thumb/animation/morning-coffee-3x.gif "> <img src=".thumb/animation/gopher-dance-long-3x.gif ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
 
@@ -28,6 +27,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/adventure/hiking.png">](vector/adventure/hiking.svg)
 [<img src=".thumb/vector/arts/ballet.png">](vector/arts/ballet.svg)
 [<img src=".thumb/vector/arts/upright.png">](vector/arts/upright.svg)
+[<img src=".thumb/vector/computer/gamer.png">](vector/computer/gamer.svg)
 [<img src=".thumb/vector/dandy/umbrella.png">](vector/dandy/umbrella.svg)
 [<img src=".thumb/vector/fairy-tale/king.png">](vector/fairy-tale/king.svg)
 [<img src=".thumb/vector/fairy-tale/knight.png">](vector/fairy-tale/knight.svg)
@@ -35,6 +35,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
 [<img src=".thumb/vector/friends/empire-silhouette.png">](vector/friends/empire-silhouette.svg)
+[<img src=".thumb/vector/friends/heart-balloon.png">](vector/friends/heart-balloon.svg)
 [<img src=".thumb/vector/friends/hugging-docker.png">](vector/friends/hugging-docker.svg)
 [<img src=".thumb/vector/friends/liberty.png">](vector/friends/liberty.svg)
 [<img src=".thumb/vector/friends/stovepipe-hat-front.png">](vector/friends/stovepipe-hat-front.svg)
