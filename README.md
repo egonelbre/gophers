@@ -14,7 +14,6 @@ The Gopher character design is licensed under the Creative Commons 3.0 Attributi
 Read http://blog.golang.org/gopher for more details.
 
 <img src=".thumb/animation/morning-coffee-3x.gif ">
-
 <img src=".thumb/animation/gopher-dance-long-3x.gif ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
@@ -30,6 +29,8 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/arts/ballet.png">](vector/arts/ballet.svg)
 [<img src=".thumb/vector/arts/upright.png">](vector/arts/upright.svg)
 [<img src=".thumb/vector/dandy/umbrella.png">](vector/dandy/umbrella.svg)
+[<img src=".thumb/vector/fairy-tale/king.png">](vector/fairy-tale/king.svg)
+[<img src=".thumb/vector/fairy-tale/knight.png">](vector/fairy-tale/knight.svg)
 [<img src=".thumb/vector/fairy-tale/witch-learning.png">](vector/fairy-tale/witch-learning.svg)
 [<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
@@ -39,12 +40,16 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/friends/stovepipe-hat-front.png">](vector/friends/stovepipe-hat-front.svg)
 [<img src=".thumb/vector/friends/stovepipe-hat.png">](vector/friends/stovepipe-hat.svg)
 [<img src=".thumb/vector/party/birthday.png">](vector/party/birthday.svg)
+[<img src=".thumb/vector/party/music.png">](vector/party/music.svg)
 [<img src=".thumb/vector/projects/network-side.png">](vector/projects/network-side.svg)
 [<img src=".thumb/vector/projects/network.png">](vector/projects/network.svg)
 [<img src=".thumb/vector/projects/surfing-js.png">](vector/projects/surfing-js.svg)
 [<img src=".thumb/vector/projects/vim-go.png">](vector/projects/vim-go.svg)
 [<img src=".thumb/vector/projects/with-C-book.png">](vector/projects/with-C-book.svg)
 [<img src=".thumb/vector/projects/wwgl.png">](vector/projects/wwgl.svg)
+[<img src=".thumb/vector/science/gas-mask.png">](vector/science/gas-mask.svg)
+[<img src=".thumb/vector/science/jet-pack.png">](vector/science/jet-pack.svg)
+[<img src=".thumb/vector/science/mistake.png">](vector/science/mistake.svg)
 [<img src=".thumb/vector/science/power-to-the-masses.png">](vector/science/power-to-the-masses.svg)
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
