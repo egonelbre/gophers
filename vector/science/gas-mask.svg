@@ -12,8 +12,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="123.3558mm"
-   height="117.14229mm"
-   viewBox="0 0 437.0875 415.0711"
+   height="125.22756mm"
+   viewBox="0 0 437.0875 443.71971"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
@@ -92,7 +92,7 @@
     <linearGradient
        id="gopher-body"
        osb:paint="solid"
-       gradientTransform="matrix(0.97420596,-0.20485255,0.16876719,0.99098923,-96.529265,-59.647139)">
+       gradientTransform="matrix(0.97420596,-0.20485255,0.16876719,0.99098923,-111.77408,-152.98192)">
       <stop
          style="stop-color:#96d6ff;stop-opacity:1;"
          offset="0"
@@ -115,7 +115,7 @@
     <linearGradient
        id="gopher-eye"
        osb:paint="solid"
-       gradientTransform="translate(-113.03538,64.886511)">
+       gradientTransform="translate(-113.03538,-28.381473)">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -124,7 +124,7 @@
     <linearGradient
        id="gopher-lines"
        osb:paint="solid"
-       gradientTransform="matrix(-1.885058,7.8873317,9.4857579,3.4488963,453.36453,3343.1241)">
+       gradientTransform="matrix(-1.885058,7.8873317,9.4857579,3.4488963,562.26611,3213.4443)">
       <stop
          style="stop-color:#394655;stop-opacity:1;"
          offset="0"
@@ -139,7 +139,7 @@
        x2="822.42859"
        y2="39.505058"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92105265,0,0,0.92105265,54.313052,17.021636)" />
+       gradientTransform="matrix(0.92105265,0,0,0.92105265,54.313051,2.6033082)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-eye"
@@ -149,13 +149,13 @@
        x2="822.42859"
        y2="90.770309"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92105266,0,0,0.92105266,99.313015,-30.196354)" />
+       gradientTransform="matrix(0.92105266,0,0,0.92105266,99.313014,-44.614682)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-limbs"
        id="linearGradient4279"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9261418,-0.20608298,0.39407825,0.99205886,-247.08332,96.713194)" />
+       gradientTransform="matrix(0.9261418,-0.20608298,0.39407825,0.99205886,-214.82554,96.92862)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-body"
@@ -165,31 +165,31 @@
        x2="-151.41731"
        y2="371.77307"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(13.766515,14.963922)" />
+       gradientTransform="translate(13.766517,-4.5690462)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-limbs"
        id="linearGradient4734"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.93989472,-0.1805332,0.34522117,0.99763952,-242.63463,70.091042)" />
+       gradientTransform="matrix(0.93989472,-0.1805332,0.34522117,0.99763952,-210.27244,71.16015)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-limbs"
        id="linearGradient4758"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.96025421,-0.13693078,0.26184327,1.0040525,-140.14948,60.599183)" />
+       gradientTransform="matrix(0.96025421,-0.13693078,0.26184327,1.0040525,-119.63919,44.259111)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-limbs"
        id="linearGradient4766"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-7.1045979,55.335665)" />
+       gradientTransform="translate(17.767354,42.453536)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-nose"
        id="linearGradient4796"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.65610141,0,0,0.65610141,624.85148,248.34741)"
+       gradientTransform="matrix(0.65610141,0,0,0.65610141,624.85148,233.92908)"
        x1="198.05417"
        y1="374.50043"
        x2="263.28683"
@@ -199,7 +199,7 @@
        xlink:href="#gopher-iris"
        id="linearGradient4808"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-12.13686,11.766414)"
+       gradientTransform="translate(-12.136862,-11.550582)"
        x1="427.26477"
        y1="316.13431"
        x2="488.88409"
@@ -209,7 +209,7 @@
        xlink:href="#gopher-iris"
        id="linearGradient4821"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-78.641384,15.981489)"
+       gradientTransform="translate(-78.641386,-7.3355072)"
        x1="427.26477"
        y1="316.13431"
        x2="488.88409"
@@ -233,8 +233,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="68.178106"
-     inkscape:cy="178.88006"
+     inkscape:cx="252.02587"
+     inkscape:cy="109.20623"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -255,8 +255,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4305"
-       originx="-68.793829"
-       originy="-419.98533" />
+       originx="-68.79383"
+       originy="-405.75501" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -274,8 +274,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="background"
-     style="display:inline"
-     transform="translate(-68.793828,-217.3058)">
+     style="display:none"
+     transform="translate(-68.793827,-202.88747)">
     <rect
        style="fill:#e3e5e8;fill-opacity:1;stroke:none;stroke-width:2.27491593;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4879"
@@ -298,11 +298,14 @@
      id="layer5"
      inkscape:label="gopher-body"
      style="display:inline;opacity:1"
-     transform="translate(-68.793828,-217.3058)">
+     transform="translate(-68.793827,-202.88747)">
     <g
        style="display:inline;opacity:1"
        transform="matrix(0.02038939,-0.44696628,-0.61719369,0.04347668,575.19339,753.45525)"
-       id="g4732">
+       id="g4732"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4734);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 423.50332,581.83521 c -0.004,4.40048 -1.19837,7.58856 -3.37524,9.82844 -2.17687,2.23987 -5.33154,3.55156 -9.14619,4.44292 -3.81465,0.89135 -8.28246,1.39523 -13.05675,1.83828 -4.77428,0.44304 -9.85163,0.79076 -14.95001,1.09928 -5.09838,0.30851 -9.94541,0.34741 -14.40217,0.0862 -4.45676,-0.26122 -8.52354,-0.79908 -11.99271,-1.71189 -3.46915,-0.91282 -6.33736,-2.21356 -8.3562,-4.09288 -2.01885,-1.87935 -3.18709,-4.34475 -3.25466,-7.51083 -0.0676,-3.16607 0.9983,-5.4859 2.92534,-7.0838 1.92703,-1.5979 4.71248,-2.46394 8.09977,-2.84688 3.38729,-0.38293 7.37282,-0.28336 11.77044,-0.16051 4.39762,0.12284 9.21051,0.23456 14.33166,-0.12202 5.12115,-0.35659 10.27171,-1.47349 15.16022,-2.54099 4.88852,-1.06749 9.50395,-2.05149 13.43823,-2.27114 3.9343,-0.21967 7.17754,0.32322 9.39823,2.04598 2.22069,1.72276 3.41425,4.59936 3.41004,8.99986 z"
@@ -323,7 +326,10 @@
     <g
        id="g4634"
        transform="matrix(-0.00410852,-0.44741223,0.61520246,0.06591067,-5.0609103,741.94573)"
-       style="display:inline;opacity:1">
+       style="display:inline;opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          sodipodi:nodetypes="sssssssssssssssss"
          inkscape:connector-curvature="0"
@@ -340,7 +346,10 @@
     <g
        style="display:inline;opacity:1;enable-background:new"
        id="g4198-7"
-       transform="matrix(-0.69027452,0,0,0.73815345,31.206337,164.31694)">
+       transform="matrix(-0.69027452,0,0,0.73815345,31.206337,164.31694)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#gopher-lines);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m -187.4859,415.27571 c -0.81268,14.09526 -1.11105,28.12936 -1.64473,41.90917 -0.53369,13.77981 -1.30434,27.305 -3.06825,40.35771 -1.7639,13.0527 -4.52361,25.6314 -9.00882,37.50702 -4.48522,11.87563 -10.69659,23.04568 -19.3097,33.30019 -10.86592,12.93661 -25.86936,23.35575 -43.78765,31.05246 -17.91831,7.69671 -38.7475,12.67622 -61.46841,14.68721 -22.7209,2.01097 -47.34993,1.053 -72.97259,-3.20836 -25.62265,-4.26135 -52.26161,-11.82948 -78.79231,-23.08818 -7.67256,-3.25597 -15.50196,-8.18236 -23.05607,-14.1416 -7.55412,-5.95923 -14.83485,-12.95071 -21.3818,-20.34822 -6.54696,-7.3975 -12.35979,-15.20125 -16.93736,-22.79903 -4.57758,-7.59779 -7.91709,-14.99012 -9.50031,-21.57284 -3.30936,-13.75963 -4.77889,-26.19817 -5.27509,-37.90198 -0.49621,-11.7038 -0.024,-22.67119 0.50542,-33.47259 0.52939,-10.8014 1.11557,-21.43565 0.84273,-32.47743 -0.27284,-11.04179 -1.39972,-22.48933 -4.33479,-34.94232 -2.3362,-9.91202 -4.86353,-19.50481 -7.31366,-29.13192 -2.45013,-9.62713 -4.82354,-19.28818 -6.84276,-29.33328 -2.01922,-10.04511 -3.68449,-20.4739 -4.70432,-31.63863 -1.01984,-11.16473 -1.39467,-23.0649 -0.81379,-36.0612 0.3898,-8.72092 1.40853,-18.13385 3.27571,-27.68584 1.86718,-9.55197 4.58379,-19.24313 8.35506,-28.5015 3.77127,-9.25839 8.5982,-18.0835 14.65665,-25.88717 6.05844,-7.80367 13.3498,-14.58488 22.00339,-19.75087 11.33682,-6.76783 22.06268,-12.52473 32.62776,-17.28239 10.56508,-4.75767 20.96887,-8.51569 31.63591,-11.28444 10.66705,-2.76874 21.59766,-4.54799 33.19113,-5.35168 11.59349,-0.8037 23.84984,-0.63173 37.13958,0.49584 18.92608,1.60577 37.6283,3.23968 55.78668,5.47919 18.15838,2.23951 35.7745,5.08456 52.44893,9.10739 16.67443,4.02285 32.40525,9.22454 46.71668,16.16512 14.31143,6.94058 27.19782,15.62237 38.16218,26.56756 7.82564,7.81196 14.07985,16.77094 18.91381,26.52182 4.83396,9.75089 8.24889,20.29282 10.44125,31.27887 2.19235,10.98605 3.16431,22.41561 3.13172,33.96134 -0.0326,11.54575 -1.06731,23.20767 -2.90435,34.68282 -1.33182,8.31935 -2.66049,16.40059 -3.95062,24.26905 -1.29012,7.86844 -2.54183,15.52411 -3.72506,22.99054 -1.18321,7.46642 -2.29805,14.74361 -3.31802,21.85322 -1.01996,7.10962 -1.94513,14.05167 -2.75115,20.84606 -0.33596,2.83198 -0.65162,5.63823 -0.94565,8.42002 -0.29404,2.78179 -0.56646,5.53912 -0.81595,8.27324 -0.24949,2.73412 -0.47606,5.44502 -0.67838,8.1339 -0.20234,2.68888 -0.38044,5.35574 -0.533,8.00173 z"
@@ -357,7 +366,10 @@
     <g
        style="opacity:1"
        transform="matrix(-0.33562307,0.03603633,0.04642397,0.30284512,121.21385,152.17059)"
-       id="g4831">
+       id="g4831"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          sodipodi:nodetypes="sssssssssssssssss"
          inkscape:connector-curvature="0"
@@ -381,7 +393,10 @@
     <g
        id="g4880"
        transform="matrix(0.33316877,0.05422203,-0.06281305,0.29987476,465.01489,171.25131)"
-       style="opacity:1">
+       style="opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#gopher-body);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m -626.57295,401.69566 c 2.24713,11.35067 0.36741,22.38948 -3.843,32.03835 -4.21053,9.64886 -10.54997,17.90531 -17.7192,24.34399 -7.1694,6.43883 -15.25457,11.1106 -24.57171,13.61082 -9.31727,2.5002 -20.94956,4.47176 -31.64526,1.82793 -10.69571,-2.64383 -18.09209,-9.81214 -24.14818,-17.25062 -6.05597,-7.43843 -12.44269,-16.56671 -23.09665,-25.35944 -10.65372,-8.79255 -20.95218,-17.78817 -25.30072,-26.87318 -4.34843,-9.08528 -7.1154,-18.36084 -7.98,-27.52156 -0.86459,-9.1606 0.24716,-17.36404 2.9617,-24.58398 2.71467,-7.22004 7.03243,-13.45488 12.66059,-18.5369 5.6283,-5.08191 12.56665,-9.01064 20.59229,-11.48936 8.02576,-2.47858 17.13537,-3.50537 27.20916,-2.66707 10.0738,0.83832 20.1809,3.47234 29.95223,7.6529 9.77122,4.18068 19.21426,9.9086 27.71179,16.89733 8.49741,6.98886 16.03465,15.24007 21.79567,24.41557 5.7609,9.17565 13.1742,22.14471 15.42129,33.49522 z"
@@ -408,11 +423,14 @@
      id="layer9"
      inkscape:label="gopher-shadow"
      style="display:inline;opacity:0.06000001;filter:url(#filter4658)"
-     transform="translate(-68.793828,-217.3058)">
+     transform="translate(-68.793827,-202.88747)">
     <g
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
        transform="matrix(-0.24568081,-0.37394588,-0.47434395,0.39726073,561.11178,415.19133)"
-       id="g4818">
+       id="g4818"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 423.50332,581.83521 c -0.004,4.40048 -1.19837,7.58856 -3.37524,9.82844 -2.17687,2.23987 -5.33154,3.55156 -9.14619,4.44292 -3.81465,0.89135 -8.28246,1.39523 -13.05675,1.83828 -4.77428,0.44304 -9.85163,0.79076 -14.95001,1.09928 -5.09838,0.30851 -9.94541,0.34741 -14.40217,0.0862 -4.45676,-0.26122 -8.52354,-0.79908 -11.99271,-1.71189 -3.46915,-0.91282 -6.33736,-2.21356 -8.3562,-4.09288 -2.01885,-1.87935 -3.18709,-4.34475 -3.25466,-7.51083 -0.0676,-3.16607 0.9983,-5.4859 2.92534,-7.0838 1.92703,-1.5979 4.71248,-2.46394 8.09977,-2.84688 3.38729,-0.38293 7.37282,-0.28336 11.77044,-0.16051 4.39762,0.12284 9.21051,0.23456 14.33166,-0.12202 5.12115,-0.35659 10.27171,-1.47349 15.16022,-2.54099 4.88852,-1.06749 9.50395,-2.05149 13.43823,-2.27114 3.9343,-0.21967 7.17754,0.32322 9.39823,2.04598 2.22069,1.72276 3.41425,4.59936 3.41004,8.99986 z"
@@ -432,7 +450,10 @@
        cx="287.44543"
        cy="429.83923"
        rx="27.510874"
-       ry="14.086892" />
+       ry="14.086892"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62883061;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4839"
@@ -440,11 +461,17 @@
        height="15.234375"
        x="275.52307"
        y="437.9751"
-       ry="7.03125" />
+       ry="7.03125"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <g
        id="g4655"
        transform="matrix(0.31162871,-0.32106406,0.39116091,0.4793865,30.864657,351.04511)"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new">
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          sodipodi:nodetypes="sssssssssssssssss"
          inkscape:connector-curvature="0"
@@ -464,40 +491,55 @@
        transform="matrix(0.93749999,0,0,0.93749999,78.296503,206.26013)"
        id="path4852"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccssssssc" />
+       sodipodi:nodetypes="cccccccccccccssssssc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#090b05;fill-opacity:1;stroke:none;stroke-width:4.6875;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 176.07611,437.95993 c 0,0 44.32801,3.61857 68.31617,18.12613 5.37051,3.24798 6.02651,4.53223 5.54171,11.62452 -0.20653,3.0214 -11.79209,6.37172 -14.31058,14.41762 -2.11752,6.7649 -2.0012,19.40875 -0.61471,29.76029 1.45215,10.84179 9.12998,18.24653 18.98605,22.99113 14.33537,6.90089 60.52832,5.26256 68.75969,1.115 24.53254,-12.36127 23.49724,-19.61279 23.49724,-22.26445 0,-2.65165 -26.98645,-25.72034 -28.97519,-33.67529 -1.98874,-7.95495 -4.64038,-20.55029 -0.33145,-22.53902 4.30893,-1.98874 83.23859,-20.98865 93.42701,-19.65645 3.18822,0.41688 4.19644,-22.90882 7.41209,-25.0867 1.64662,-1.11522 -74.98551,-17.23918 -83.27192,-15.25044 -8.2864,1.98874 -58.33631,15.24698 -84.52135,20.55029 -26.18505,5.3033 -55.35321,5.63476 -65.29689,7.6235 -9.94369,1.98873 -8.61787,12.26387 -8.61787,12.26387 z"
        id="path4858"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssssssssssssscc" />
+       sodipodi:nodetypes="cssssssssssssscc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="gas-mask-inner"
      style="display:inline"
-     transform="translate(9.5026746,-11.045672)">
+     transform="translate(9.5026759,3.3726558)">
     <path
        style="opacity:1;fill:#303728;fill-opacity:1;stroke:none;stroke-width:1.6572814;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 100.2887,57.445678 C 62.93747,58.820952 29.703604,86.422217 16.580411,120.65592 6.961209,144.91887 8.8805688,175.60815 27.857666,194.9414 44.356051,212.43407 70.940711,216.66142 93.372802,209.98352 134.71398,198.37763 167.00105,156.65572 163.7915,113.18481 162.31313,89.042673 145.25639,66.380802 121.64388,60.003027 114.76093,57.814513 107.46283,57.41882 100.2887,57.445678 Z"
        id="path4609"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#303728;fill-opacity:1;stroke:none;stroke-width:1.6572814;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 314.50744,55.164184 c -23.3843,-0.220692 -46.32024,14.298523 -54.89685,36.265869 -10.50497,25.835297 -3.24032,55.999777 12.74048,77.979117 18.79361,26.41251 51.72325,44.92628 84.68941,39.80528 25.74878,-3.40814 46.84667,-25.99195 49.39506,-51.69065 4.45447,-36.67562 -17.90089,-73.117013 -49.40875,-90.838378 -12.90076,-7.308943 -27.61885,-11.750148 -42.51935,-11.521238 z"
        id="path4611"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="gopher-face"
      style="display:inline"
-     transform="translate(-68.793828,-217.3058)">
+     transform="translate(-68.793827,-202.88747)">
     <g
        transform="matrix(0.61836129,0,0,0.61836129,111.35925,155.90191)"
-       id="g4806">
+       id="g4806"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#gopher-lines);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 547.42756,318.16456 c -0.44046,14.77191 -4.12869,29.02667 -10.38967,42.25266 -6.26099,13.22599 -15.09198,25.42687 -25.80466,35.99686 -10.71268,10.57 -23.30432,19.50822 -37.11826,26.08983 -13.81394,6.58161 -28.85103,10.80263 -44.50193,11.8618 -15.65091,1.05917 -30.4406,-1.15844 -43.81781,-6.16756 -13.37721,-5.00911 -25.3405,-12.8075 -35.30087,-22.80416 -9.96037,-9.99666 -17.91599,-22.19037 -23.26581,-35.90798 -5.34983,-13.71761 -8.0915,-28.95913 -7.64195,-44.98105 0.44955,-16.02192 4.04447,-31.2937 10.1422,-45.07896 6.09773,-13.78526 14.69591,-26.08175 25.16951,-36.25747 10.4736,-10.17571 22.82245,-18.23043 36.46168,-23.66123 13.63924,-5.4308 28.57214,-8.24285 44.22923,-8.02541 15.6571,0.21745 30.56095,3.42714 44.11009,8.94154 13.54914,5.5144 25.7404,13.33722 35.92568,22.91495 10.18529,9.57774 18.36233,20.91345 23.87736,33.53282 5.51504,12.61936 8.36566,26.52144 7.92521,41.29336 z"
@@ -525,7 +567,10 @@
     </g>
     <g
        id="g4819"
-       transform="matrix(0.61836129,0,0,0.61836129,-78.055955,153.97798)">
+       transform="matrix(0.61836129,0,0,0.61836129,-78.055955,153.97798)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          sodipodi:nodetypes="sssssssssssssssss"
          inkscape:connector-curvature="0"
@@ -557,10 +602,13 @@
      id="layer7"
      inkscape:label="gopher-mouth"
      style="display:inline"
-     transform="translate(-68.793828,-217.3058)">
+     transform="translate(-68.793827,-202.88747)">
     <g
        id="g4794"
-       transform="translate(-498.75554,-59.964628)">
+       transform="translate(-498.75554,-59.964628)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 781.20683,487.6874 6.35568,0.0828 3.72298,-0.0821 c 1.1875,-0.0262 2.16091,0.53559 2.80984,1.36379 0.64894,0.82822 0.86157,1.97521 0.85989,3.22687 l -0.009,7.08562 0.38105,7.111 c 0.0686,1.28069 -0.4318,2.40965 -1.17144,3.23132 -0.73966,0.82165 -1.75974,1.28978 -2.8867,1.31649 l -3.75746,0.0891 -7.38167,-0.17258 c -1.41577,-0.0331 -2.6557,-0.58514 -3.50108,-1.43299 -0.84536,-0.84787 -1.25133,-2.00084 -1.18525,-3.2592 l 0.37057,-7.05621 0.49133,-7.04505 c 0.0874,-1.25398 0.80978,-2.37726 1.71275,-3.18163 0.90295,-0.80437 2.04268,-1.2842 3.18885,-1.27716 z"
@@ -598,284 +646,419 @@
      id="layer3"
      inkscape:label="gas-mask"
      style="display:inline"
-     transform="translate(9.5026746,-11.045672)">
+     transform="translate(9.5026759,3.3726558)">
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 238.76367,33.396484 c -19.22247,0.192114 -38.78899,3.566187 -55.26367,9.890625 -6.12395,8.94818 -13.29019,24.667039 -16.875,34.25 C 154.5875,70.532398 140.21166,65.65357 125.90625,63.195312 102.56949,57.907515 75.811866,64.515268 53.261719,81.134766 12.49914,111.18011 -3.0895911,164.70663 18.443359,200.68945 c 10.168179,16.98592 27.450057,27.75915 48.16211,30.02344 12.752982,4.06333 24.152576,9.63117 40.156251,8.01172 17.42291,-0.2938 80.84662,42.41295 98.26953,42.11914 46.26501,-0.7802 17.86962,4.31073 55.01367,-4.62305 11.60237,-2.79057 66.68337,-41.20553 81.13477,-41.44922 20.44148,-1.78699 33.03139,-6.38526 45.63281,-11.15234 17.32278,-4.00964 31.5505,-14.02133 40.44336,-28.45898 22.10069,-35.96318 6.10016,-89.45974 -35.73828,-119.488285 -23.96411,-17.16064 -52.48362,-23.567193 -76.91211,-17.277344 -11.62375,2.163659 -24.4641,5.899216 -35.98047,11.017578 -1.01632,-11.096918 -2.70722,-22.109514 -6.375,-32.875 -10.54274,-2.225515 -21.95285,-3.255893 -33.48633,-3.140625 z m 97.69336,29.267578 a 85.942582,69.525881 47.349562 0 1 52.6543,18.320313 85.942582,69.525881 47.349562 0 1 32.32422,111.037105 85.942582,69.525881 47.349562 0 1 -104.71875,9.98438 85.942582,69.525881 47.349562 0 1 -32.32422,-111.03711 85.942582,69.525881 47.349562 0 1 52.06445,-28.304688 z m -226.60156,2.28125 a 69.884614,86.383237 42.70486 0 1 0.002,0 69.884614,86.383237 42.70486 0 1 52.3418,28.445313 A 69.884614,86.383237 42.70486 0 1 129.70117,204.97656 69.884614,86.383237 42.70486 0 1 24.421875,194.94336 69.884614,86.383237 42.70486 0 1 56.919922,83.355469 69.884614,86.383237 42.70486 0 1 109.85547,64.945312 Z"
        id="path4602"
        transform="scale(0.93749999)"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        id="path4627"
        d="m 180.25,45.537109 c -6.12395,8.94818 -10.04019,22.417039 -13.625,32 C 154.5875,70.532398 140.21166,65.65357 125.90625,63.195312 102.56949,57.907515 75.811866,64.515268 53.261719,81.134766 12.49914,111.18011 -3.0895911,164.70663 18.443359,200.68945 c 10.168179,16.98592 27.450057,27.75915 48.16211,30.02344 13.502982,1.68833 25.652883,5.56425 41.531251,8.13672 9.5475,1.5468 33.16326,6.78925 54.91414,15.20285 18.73665,7.24766 36.83948,-15.40153 42.62379,-3.78283 5.38636,10.81937 40.43937,11.31089 44.01672,-1.25173 3.87999,-13.62542 20.1804,7.80938 38.77908,0.048 21.45919,-8.95506 44.97953,-13.84462 52.70924,-14.29447 20.48478,-1.19216 33.03139,-6.38526 45.63281,-11.15234 17.32278,-4.00964 31.5505,-14.02133 40.44336,-28.45898 22.10069,-35.96318 6.10016,-89.45974 -35.73828,-119.488285 -23.96411,-17.16064 -52.48362,-23.567193 -76.91211,-17.277344 -11.62375,2.163659 -24.4641,5.899216 -35.98047,11.017578 -1.01632,-11.096918 -2.58222,-19.609514 -6.25,-30.375 -35.47264,-5.861126 -78.36938,1.09679 -92.125,6.50005 z m 156.20703,17.126953 c 17.85206,-0.07946 36.50083,6.409112 52.6543,18.320313 37.84299,27.905145 52.31498,77.617935 32.32422,111.037105 -19.99107,33.41937 -66.87527,37.88954 -104.71875,9.98438 -37.843,-27.90514 -52.31498,-77.61794 -32.32422,-111.03711 10.6761,-17.847186 29.72933,-28.205423 52.06445,-28.304688 z m -226.60156,2.28125 h 0.002 c 22.45424,0.100148 41.60896,10.509837 52.3418,28.445313 20.09718,33.584685 5.54735,83.543205 -32.4981,111.585935 C 91.655327,233.0204 44.519905,228.52836 24.421875,194.94336 4.3233407,161.35851 18.873332,111.39849 56.919922,83.355469 73.159766,71.385637 91.908136,64.865247 109.85547,64.945312 Z"
        style="opacity:1;fill:#30381a;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccsssssscccccccccccccccccccc"
-       transform="scale(0.93749999)" />
+       transform="scale(0.93749999)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#3b4520;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 241.49609,36.814453 c -1.28556,0.0074 -2.56548,0.02978 -3.84179,0.05859 -1.90361,0.04218 -3.79402,0.110185 -5.66992,0.195312 -0.69475,0.03198 -1.38421,0.07191 -2.07422,0.109375 -1.23277,0.06619 -2.45474,0.141761 -3.66993,0.22461 -0.7479,0.05123 -1.50159,0.09733 -2.24218,0.154297 1.06486,7.822469 0.62747,16.619955 -2.58985,22.970703 -7.82289,15.441826 -34.4404,26.405277 -47.25781,22.425781 -2.32657,-2.359129 -4.96078,-4.290586 -7.94922,-5.65625 C 154.2501,70.42235 140.04553,65.625023 125.90625,63.195312 125.18867,63.03272 124.46796,62.88234 123.74414,62.742188 l 2.3125,4.183593 c 15.33778,3.819379 28.10294,13.029938 36.14258,26.464844 6.75611,11.290235 9.58095,24.432325 8.92969,37.968755 3.94059,9.5491 0.84637,23.22927 17.01757,29.68554 2.72701,-18.46163 -3.2826,-26.92168 -1.10409,-32.11944 5.55311,-13.24925 22.79788,-11.03391 29.02206,-0.30243 20.53693,35.40889 -10.26953,98.0957 -10.26953,98.0957 l 44.61914,20.44922 c 0.15076,-0.29546 0.31163,-0.56367 0.48242,-0.80664 0.003,-0.005 0.007,-0.009 0.01,-0.0137 0.17244,-0.24383 0.35462,-0.46236 0.54687,-0.65625 0.19327,-0.1949 0.39661,-0.36592 0.60938,-0.51368 1.879,-1.30488 4.52357,-0.82795 7.72266,0.26758 0.13574,0.0464 0.27432,0.092 0.41211,0.14063 1.78999,0.63222 3.7327,1.41754 5.83398,2.20898 0.09,0.0339 0.17902,0.0678 0.26953,0.10156 0.71849,0.26847 1.46341,0.52799 2.21289,0.78321 0.31021,0.1055 0.61641,0.21304 0.93164,0.31445 0.35506,0.11435 0.70913,0.22823 1.07031,0.33594 0.4546,0.13556 0.91502,0.26442 1.37891,0.38672 0.0843,0.0222 0.16929,0.0427 0.25391,0.0644 0.41868,0.10753 0.84181,0.20872 1.26758,0.30273 0.087,0.0192 0.1744,0.0382 0.26171,0.0566 0.41066,0.0875 0.82537,0.16574 1.24219,0.23829 0.11316,0.0197 0.22625,0.0401 0.33985,0.0586 0.39057,0.0636 0.78408,0.11753 1.17968,0.16602 0.14317,0.0175 0.28588,0.0354 0.42969,0.0508 0.37519,0.0402 0.75344,0.0708 1.13281,0.0957 0.16012,0.0104 0.31963,0.0218 0.48047,0.0293 0.35228,0.0166 0.7069,0.0196 1.0625,0.0215 0.1957,9.7e-4 0.39122,0.006 0.58789,0.002 0.34977,-0.007 0.70198,-0.0285 1.05469,-0.0508 0.18699,-0.0118 0.37276,-0.0187 0.56055,-0.0351 0.36128,-0.0316 0.72575,-0.0794 1.08984,-0.12891 0.19411,-0.0265 0.38716,-0.0463 0.58203,-0.0781 0.36253,-0.0591 0.72676,-0.13852 1.0918,-0.2168 0.1901,-0.0408 0.37957,-0.071 0.57031,-0.11719 0.47354,-0.11469 0.95046,-0.25458 1.42774,-0.4043 0.0808,-0.0254 0.16122,-0.0419 0.24218,-0.0684 0.5707,-0.18612 1.14336,-0.3966 1.71875,-0.63671 17.26811,-7.2061 35.85479,-11.77354 46.49024,-13.51953 -19.941,-7.59241 -46.64004,-20.61192 -60.96117,-40.00976 -11.49372,-15.56814 -16.31854,-28.09248 -17.75,-44 -2.19905,-24.43759 -2.93142,-41.13295 3.75,-58.000001 4.59633,-11.603312 9.41633,-13.575159 10.26172,-20.503906 1.23407,-10.114298 -2.4509,-23.228359 -7.26563,-35.236328 -0.008,-8.64e-4 -0.017,-0.0011 -0.0254,-0.002 -1.71514,-0.175788 -3.43997,-0.324592 -5.16992,-0.451172 -0.13534,-0.0099 -0.27084,-0.01972 -0.40625,-0.0293 -1.70195,-0.120795 -3.40868,-0.220852 -5.11719,-0.296875 -0.004,-1.72e-4 -0.008,1.72e-4 -0.0117,0 -9.9e-4,-5.8e-5 -0.003,5.8e-5 -0.004,0 -1.6462,-0.07312 -3.29369,-0.122333 -4.93945,-0.15625 -0.33546,-0.0068 -0.67059,-0.01232 -1.00586,-0.01758 -1.60988,-0.02565 -3.21815,-0.03856 -4.82032,-0.0293 z"
        transform="scale(0.93749999)"
        id="path4843"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccsccccccccsscccccccccccccccccccccccccccccccccccssssccccccccccc" />
+       sodipodi:nodetypes="ccccccsccccccccsscccccccccccccccccccccccccccccccccccssssccccccccccc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#474c3d;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 231.36523,202.66602 c -11.59295,-0.24288 -23.46415,2.33772 -33.61523,7.12109 -17.46565,8.23013 -43.01391,22.66456 -44.42383,40.74805 1.76762,-1.49089 1.05151,0.0288 2.27076,0.68407 11.16539,6.0011 33.63332,11.61918 51.25659,14.25436 12.52604,1.873 31.35633,3.06917 44.7241,0.37386 17.42643,-3.51365 37.8073,-17.43042 47.56691,-20.85917 -2.73894,-18.12304 -29.31187,-31.99251 -47.64453,-38.70117 -6.32292,-2.31381 -13.17899,-3.47537 -20.13477,-3.62109 z"
        id="path4655"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssscsc"
-       transform="scale(0.93749999)" />
+       transform="scale(0.93749999)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="display:inline;opacity:1;fill:#7a8c62;fill-opacity:1;stroke:none;stroke-width:1.76776683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="M 108.03516,63.042969 C 68.193843,64.509928 32.744166,93.950849 18.746094,130.4668 8.4856113,156.34728 10.533153,189.08294 30.775391,209.70508 48.373668,228.36393 76.730639,232.87309 100.6582,225.75 144.75546,213.37038 179.195,168.86702 175.77148,122.49805 174.19456,96.746436 156.00113,72.574444 130.81445,65.771484 123.47264,63.437069 115.68756,63.01432 108.03516,63.042969 Z m 1.82031,1.902343 a 69.884614,86.383237 42.70486 0 1 0.002,0 69.884614,86.383237 42.70486 0 1 52.3418,28.445313 A 69.884614,86.383237 42.70486 0 1 129.70117,204.97656 69.884614,86.383237 42.70486 0 1 24.421875,194.94336 69.884614,86.383237 42.70486 0 1 56.919922,83.355469 69.884614,86.383237 42.70486 0 1 109.85547,64.945312 Z"
        transform="scale(0.93749999)"
        id="path4617"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="display:inline;opacity:1;fill:#7a8c62;fill-opacity:1;stroke:none;stroke-width:1.76776683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="m 335.47461,58.841797 c -24.94325,-0.235405 -49.40826,15.251758 -58.55664,38.683594 -11.2053,27.557649 -3.45634,59.733109 13.58984,83.177729 20.04652,28.17335 55.17204,47.92139 90.33594,42.45899 27.46537,-3.63535 49.96922,-27.72477 52.6875,-55.13672 4.75143,-39.12066 -19.09474,-77.991741 -52.70313,-96.894531 -13.76081,-7.796206 -29.45964,-12.533233 -45.35351,-12.289062 z m 0.98242,3.822265 a 85.942582,69.525881 47.349562 0 1 52.6543,18.320313 85.942582,69.525881 47.349562 0 1 32.32422,111.037105 85.942582,69.525881 47.349562 0 1 -104.71875,9.98438 85.942582,69.525881 47.349562 0 1 -32.32422,-111.03711 85.942582,69.525881 47.349562 0 1 52.06445,-28.304688 z"
        transform="scale(0.93749999)"
        id="path4619"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#6fc8de;fill-opacity:0.41904811;stroke:none;stroke-width:1.76776683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 108.89549,63.191083 C 82.383144,63.506168 57.293894,77.121494 39.775402,96.553196 22.342822,115.80834 11.52573,142.02847 14.016242,168.22366 c 1.660326,18.68608 11.512396,36.95778 27.644673,46.97114 11.76771,7.55561 26.021207,10.7881 39.919214,9.79959 26.358641,-1.62007 50.828731,-16.01632 67.665281,-35.9537 16.25952,-19.26834 26.16204,-44.89771 23.21235,-70.28742 C 170.52382,100.93845 161.11028,83.697203 145.94153,73.815546 135.04444,66.507173 121.98064,62.94563 108.89549,63.191083 Z"
        id="path4635"
        inkscape:connector-curvature="0"
-       transform="scale(0.93749999)" />
+       transform="scale(0.93749999)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#6fc8de;fill-opacity:0.41904811;stroke:none;stroke-width:1.76776683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 337.2882,61.026949 c -8.44228,-0.08616 -16.95128,1.030126 -24.80274,4.253348 -8.27878,3.088069 -15.7573,8.118851 -21.73489,14.62673 -12.85555,12.969071 -18.11089,31.975563 -16.99044,49.901303 1.59335,24.62652 13.78321,47.95432 31.48108,64.88389 15.38384,14.5139 35.23106,25.01998 56.46715,27.05173 8.53336,0.37957 17.24327,0.51816 25.48903,-2.06597 17.88634,-4.52131 33.19169,-17.94577 39.91964,-35.13842 4.22347,-10.0792 5.57106,-21.13091 4.86553,-31.98532 -1.61691,-23.5969 -13.04614,-45.95823 -29.71511,-62.513817 C 386.163,73.965827 364.63782,62.453801 341.67517,61.087716 c -1.46161,-0.05598 -2.92441,-0.0682 -4.38697,-0.06077 z"
        id="path4637"
        inkscape:connector-curvature="0"
-       transform="scale(0.93749999)" />
+       transform="scale(0.93749999)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.4342289;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 91.330189,78.899043 -52.039598,44.605377 1.672703,2.04441 52.623695,-44.396313 z"
        id="path4639"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4641"
        d="m 325.19572,76.247392 -40.04178,40.802208 1.28706,1.8701 40.49121,-40.61097 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.23697329;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.23697329;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4643"
        d="m 74.673089,76.261495 -38.69706,33.168905 1.243835,1.52024 39.131399,-33.013443 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.52815199;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.52815199;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.45536613;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 311.49217,70.295282 -27.79076,29.999598 0.89327,1.37499 28.1027,-29.859 z"
        id="path4645"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path4719"
        d="m 236.79639,253.91054 c -0.5115,-2.2845 -2.69376,-9.61792 -2.85636,-11.50521 -0.51555,-5.70699 -9.38874,-9.56922 -19.81868,-8.6265 -10.42954,0.94277 -18.46624,6.33316 -17.95069,12.03991 0.17697,1.88847 -0.95533,10.04824 -0.72745,12.63957 0.56676,6.26699 10.31099,10.50804 21.76451,9.47273 11.45394,-1.03527 20.27996,-6.95521 19.71323,-13.22245 -0.0241,-0.26785 -0.0658,-0.53402 -0.12456,-0.79805 z"
-       style="opacity:1;fill:#3f4336;fill-opacity:1;stroke:none;stroke-width:1.59121704;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#3f4336;fill-opacity:1;stroke:none;stroke-width:1.59121704;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 233.92969,249.29297 4.71875,28.61328 c 0,0 3.53515,1.06073 3.53515,-0.70703 0,-1.33039 -0.2498,-16.94601 -0.39843,-26.3418 -2.28441,-0.83692 -4.95354,-1.37952 -7.85547,-1.56445 z"
        transform="scale(0.93749999)"
        id="path4731"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 259.75391,209.59766 -25.87891,39.68945 7.5,1.875 42.63867,-27.6875 c -7.23521,-5.6301 -16.04836,-10.31433 -24.25976,-13.87695 z"
        transform="scale(0.93749999)"
        id="path4744"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 214.93555,253.57617 c -0.86004,0.54214 -1.63439,1.12227 -2.32032,1.73242 0.25301,6.4946 0.38477,16.97852 0.38477,16.97852 l 3.75,-0.75 z"
        transform="scale(0.93749999)"
        id="path4747"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 173.35547,223.61328 c -1.97339,1.39796 -3.88453,2.84791 -5.6875,4.35938 l 45.48242,27.68164 1.09961,1.32031 0.54316,-2.87408 0.13782,-0.51918 z"
        transform="scale(0.93749999)"
        id="path4753"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#4d543d;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 230.68164,200.7207 c -33.24696,-0.0979 -66.62854,18.75183 -80.01367,48.91992 1.75356,0.57686 3.51348,1.18027 5.27344,1.79883 20.63561,-43.76181 99.74742,-75.00393 140.91992,-5.64062 1.54243,-0.5615 3.07977,-1.09742 4.61328,-1.61719 -15.89505,-30.32059 -43.28885,-43.37994 -70.79297,-43.46094 z"
        transform="scale(0.93749999)"
        id="path4784"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4790"
        cx="152.05078"
        cy="234.58607"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="228.84389"
        cx="154.62891"
        id="circle4792"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4794"
        cx="159.08203"
        cy="222.63295"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="211.38295"
        cx="171.62109"
        id="circle4796"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4798"
        cx="177.36328"
        cy="206.81264"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="203.4142"
        cx="182.98828"
        id="circle4800"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4803"
        cx="190.25391"
        cy="200.6017"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="198.02357"
        cx="197.40234"
        id="circle4805"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4807"
        cx="205.60547"
        cy="196.8517"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="195.79701"
        cx="214.04297"
        id="circle4809"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4811"
        cx="221.89453"
        cy="195.32826"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="196.38295"
        cx="228.45703"
        id="circle4813"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4816"
        cx="235.37109"
        cy="197.67201"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="215.13295"
        cx="262.67578"
        id="circle4818"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4820"
        cx="265.60547"
        cy="218.53139"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="222.86732"
        cx="269.23828"
        id="circle4822"
-       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4824"
        cx="272.75391"
        cy="228.14076"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="210.79701"
        cx="258.33984"
        id="circle4826"
-       style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4828"
        cx="243.92578"
        cy="201.18764"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="204.11732"
        cx="249.31641"
        id="circle4830"
-       style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4832"
        cx="254.12109"
        cy="207.51576"
-       r="1.3476562" />
+       r="1.3476562"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <circle
        r="1.3476562"
        cy="215.48451"
        cx="165.99609"
        id="circle4834"
-       style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#a5ab97;fill-opacity:1;stroke:none;stroke-width:2.50726748;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="gas-mask-top"
      style="display:inline"
-     transform="translate(9.5026746,-11.045672)">
+     transform="translate(9.5026759,3.3726558)">
     <path
        style="opacity:1;fill:#323828;fill-opacity:1;stroke:none;stroke-width:4.0617938;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 273.98648,294.84446 c -1.30569,-5.83147 -6.87621,-24.55102 -7.29126,-29.36858 -1.316,-14.56783 -23.96601,-24.42671 -50.58981,-22.02028 -26.62279,2.40652 -47.13754,16.16622 -45.82154,30.73348 0.45174,4.82055 -2.4386,25.64946 -1.8569,32.26417 1.44674,15.99733 26.32017,26.8232 55.5568,24.18041 29.23772,-2.64264 51.76728,-17.75411 50.32065,-33.75206 -0.0617,-0.68372 -0.16787,-1.36317 -0.31794,-2.03714 z"
        id="ellipse4651"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#474c3d;fill-opacity:1;stroke:none;stroke-width:4.0617938;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 267.16147,268.27784 c -2.70622,-1.47607 -5.53643,-3.07297 -8.20028,-4.16696 -14.01568,-5.7558 -31.34392,-4.8163 -47.22614,-1.41289 -14.42188,3.09044 -33.91123,13.01945 -41.92919,21.09867 -0.20472,2.41249 -0.40569,4.8167 -0.63635,7.4362 8.88644,-8.2949 29.32856,-19.78177 43.71037,-22.36404 15.4173,-2.76819 31.7506,-3.63887 44.63344,1.51795 4.583,1.83452 8.215,3.78523 11.53254,5.7455 -0.77885,-2.99637 -1.45413,-5.74868 -1.88439,-7.85443 z"
-       id="path4706" />
+       id="path4706"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#3f4732;fill-opacity:1;stroke:none;stroke-width:5.98325539;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 223.47414,243.09614 c -0.0501,3.4e-4 -0.10112,0.003 -0.15135,0.003 1.12836,18.43052 -0.31592,48.21343 4.47498,50.48341 l 15.24616,-0.32289 c 4.23491,-7.93739 -1.08282,-37.07358 -3.03459,-48.55872 -5.08378,-1.07577 -10.66053,-1.64385 -16.5352,-1.60432 z"
        id="path4775"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:6.45767879;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 236.04896,259.96935 c -6.88216,-0.0505 -13.93307,0.73858 -20.78565,2.02559 l -0.0656,6.49804 c 12.48285,-2.06913 25.40371,-2.78279 36.51111,0.0353 l -1.31424,-7.05047 c -4.60677,-1.00475 -9.43144,-1.47244 -14.34563,-1.50847 z"
        id="path4761"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <path
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:6.45767879;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 191.02179,270.07965 c -2.54805,1.2109 -5.02618,2.50258 -7.38345,3.83424 -0.2293,2.88864 -0.35557,4.51982 -0.56757,7.30525 2.85282,-1.70236 5.88071,-3.35639 8.97012,-4.88109 z"
        id="path4763"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <ellipse
        style="opacity:1;fill:#474d3c;fill-opacity:1;stroke:none;stroke-width:7.83442497;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4709"
@@ -883,7 +1066,10 @@
        cy="-168.55588"
        rx="17.551224"
        ry="45.899307"
-       transform="matrix(0.1703587,0.98538212,-0.98943858,0.14495272,0,0)" />
+       transform="matrix(0.1703587,0.98538212,-0.98943858,0.14495272,0,0)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <ellipse
        transform="matrix(0.1703587,0.98538212,-0.98943858,0.14495272,0,0)"
        ry="37.953232"
@@ -891,7 +1077,10 @@
        cy="-169.20782"
        cx="335.84271"
        id="ellipse4711"
-       style="opacity:1;fill:#33372d;fill-opacity:1;stroke:none;stroke-width:6.47813129;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#33372d;fill-opacity:1;stroke:none;stroke-width:6.47813129;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
     <ellipse
        style="opacity:1;fill:#788067;fill-opacity:1;stroke:none;stroke-width:2.23086429;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse4780"
@@ -899,17 +1088,23 @@
        cy="-169.20782"
        rx="4.9977379"
        ry="13.069897"
-       transform="matrix(0.1703587,0.98538212,-0.98943858,0.14495272,0,0)" />
+       transform="matrix(0.1703587,0.98538212,-0.98943858,0.14495272,0,0)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="gopher-hands"
      style="display:inline"
-     transform="translate(-68.793828,-217.3058)">
+     transform="translate(-68.793827,-202.88747)">
     <g
        transform="matrix(0.31162871,-0.32106406,0.39116091,0.4793865,31.683045,347.45305)"
-       id="g4756">
+       id="g4756"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4758);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 423.50332,581.83521 c -0.004,4.40048 -1.19837,7.58856 -3.37524,9.82844 -2.17687,2.23987 -5.33154,3.55156 -9.14619,4.44292 -3.81465,0.89135 -8.28246,1.39523 -13.05675,1.83828 -4.77428,0.44304 -9.85163,0.79076 -14.95001,1.09928 -5.09838,0.30851 -9.94541,0.34741 -14.40217,0.0862 -4.45676,-0.26122 -8.52354,-0.79908 -11.99271,-1.71189 -3.46915,-0.91282 -6.33736,-2.21356 -8.3562,-4.09288 -2.01885,-1.87935 -3.18709,-4.34475 -3.25466,-7.51083 -0.0676,-3.16607 0.9983,-5.4859 2.92534,-7.0838 1.92703,-1.5979 4.71248,-2.46394 8.09977,-2.84688 3.38729,-0.38293 7.37282,-0.28336 11.77044,-0.16051 4.39762,0.12284 9.21051,0.23456 14.33166,-0.12202 5.12115,-0.35659 10.27171,-1.47349 15.16022,-2.54099 4.88852,-1.06749 9.50395,-2.05149 13.43823,-2.27114 3.9343,-0.21967 7.17754,0.32322 9.39823,2.04598 2.22069,1.72276 3.41425,4.59936 3.41004,8.99986 z"
@@ -925,7 +1120,10 @@
     </g>
     <g
        id="g4764"
-       transform="matrix(-0.24568081,-0.37394588,-0.47434395,0.39726073,560.89406,409.89779)">
+       transform="matrix(-0.24568081,-0.37394588,-0.47434395,0.39726073,560.89406,409.89779)"
+       inkscape:export-filename="F:\z-gas-mask.png"
+       inkscape:export-xdpi="229.45"
+       inkscape:export-ydpi="229.45">
       <path
          sodipodi:nodetypes="sssssssssssssssss"
          inkscape:connector-curvature="0"
@@ -945,7 +1143,7 @@
      id="layer4"
      inkscape:label="palette"
      style="display:inline"
-     transform="translate(-68.793828,-217.3058)">
+     transform="translate(-68.793827,-202.88747)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4168);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.21052647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4162"
