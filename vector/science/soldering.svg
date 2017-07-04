@@ -263,16 +263,6 @@
        y2="438.0795"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-29.168155)" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4857">
-      <feBlend
-         inkscape:collect="always"
-         mode="color-dodge"
-         in2="BackgroundImage"
-         id="feBlend4859" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -281,11 +271,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="87.75649"
-     inkscape:cy="120.06624"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="154.22987"
+     inkscape:cy="303.83677"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -851,7 +841,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="eyeglass"
-     transform="translate(-25.172137,-139.6986)">
+     transform="translate(-25.172137,-139.6986)"
+     style="display:inline">
     <circle
        style="fill:#eaedea;fill-opacity:0.69191918;stroke:#394655;stroke-width:6.5625;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4700"
@@ -883,17 +874,17 @@
        id="rect4784"
        style="fill:#ffffff;fill-opacity:0.69191918;stroke:none;stroke-width:6.48285723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="fill:#bcc8ff;fill-opacity:1;stroke:none;stroke-width:9.1875;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4857);enable-background:new"
-       id="path4801"
-       cx="84.679504"
-       cy="211.52609"
-       r="5.3320312" />
+       style="opacity:1;fill:#bcc8ff;fill-opacity:1;stroke:none;stroke-width:4.6875;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4674"
+       cx="83.839905"
+       cy="211.30501"
+       r="5.634757" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="light"
-     style=""
+     style="display:inline"
      transform="translate(-25.172137,-139.6986)" />
   <g
      inkscape:groupmode="layer"

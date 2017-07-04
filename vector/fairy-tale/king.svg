@@ -217,16 +217,6 @@
        y1="55.362206"
        x2="1225.5"
        y2="55.362206" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5040">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend5042" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-limbs"
@@ -259,9 +249,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-229.51394"
-     inkscape:cy="345.09871"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="234.77444"
+     inkscape:cy="310.26142"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -830,10 +820,11 @@
        transform="matrix(0.93750001,0,0,0.93750001,61.024196,64.884515)"
        id="path5433" />
     <path
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5040);enable-background:new"
-       d="M 250.72852 402.24414 C 240.89673 402.77438 228.33733 403.49482 218.99414 404.20898 C 220.66519 410.6769 222.33287 417.14722 221.86914 425.55273 C 221.69371 428.73345 225.23183 430.93528 228.4082 430.83203 C 234.30352 430.6423 239.98578 432.00856 246.18945 429.55078 C 247.58389 428.99834 248.60475 428.34091 249.36914 427.45898 C 242.05821 429.0124 233.29992 429.8978 228.11914 426.46094 C 224.43931 424.01979 224.138 413.9344 227.41797 410.89258 C 230.55917 407.97943 239.82659 408.37146 251.08789 405.87305 C 250.95293 404.67331 250.8336 403.46445 250.72852 402.24414 z "
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 250.72852,402.24414 c -9.83179,0.53024 -22.39119,1.25068 -31.73438,1.96484 1.67105,6.46792 3.33873,12.93824 2.875,21.34375 -0.17543,3.18072 3.36269,5.38255 6.53906,5.2793 5.89532,-0.18973 11.57758,1.17653 17.78125,-1.28125 1.39444,-0.55244 2.4153,-1.20987 3.17969,-2.0918 -7.31093,1.55342 -16.06922,2.43882 -21.25,-0.99804 -3.67983,-2.44115 -3.98114,-12.52654 -0.70117,-15.56836 3.1412,-2.91315 12.40862,-2.52112 23.66992,-5.01953 -0.13496,-1.19974 -0.25429,-2.4086 -0.35937,-3.62891 z"
        transform="matrix(0.93750001,0,0,0.93750001,61.024196,64.884515)"
-       id="path5444" />
+       id="path5444"
+       inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88388348;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 66.693359 184.01758 C 63.600848 188.35553 61.690676 193.65556 61.835938 199.01758 C 61.753468 204.21884 63.576003 209.2528 65.839844 213.86328 C 67.402382 217.16479 70.221092 219.81834 73.677734 221.04102 C 79.587511 223.28332 86.010231 222.09316 92.146484 221.93164 C 98.486467 221.82174 104.86909 221.55106 111.18555 222.2168 C 114.58699 222.55537 118.13657 223.16779 120.87891 225.36328 C 121.95296 226.72122 123.76465 225.82945 124.96289 225.1582 C 126.94622 224.02213 128.88664 222.79862 130.76367 221.48242 C 121.50103 219.12373 108.12589 216.43114 93.337891 215.76758 C 70.504411 214.743 66.348583 203.87234 66.693359 184.01758 z "
