@@ -194,16 +194,6 @@
        id="linearGradient4321"
        gradientTransform="matrix(5.6994379,2.2315229,-1.9072375,4.8711945,4525.9679,980.95471)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4469">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4471" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3542">
@@ -215,16 +205,6 @@
          x="-1174.7097"
          y="-295.40738" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4695">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4697" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -234,10 +214,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="218.22743"
-     inkscape:cy="250.25755"
+     inkscape:cx="382.22743"
+     inkscape:cy="392.25755"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -266,7 +246,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -960,23 +940,5 @@
        height="40.789474"
        x="824.60529"
        y="331.96747" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="ref"
-     style="display:none;opacity:0.419;filter:url(#filter4695)"
-     transform="translate(-50.232073,-102.51234)">
-    <image
-       transform="matrix(1.0259632,0,0,0.8548536,-114.19962,-36.35747)"
-       style="display:inline;opacity:1;filter:url(#filter4469);enable-background:new"
-       sodipodi:absref="F:\Graphics\gophers\sketch\fairy-tale\armored-knight.png"
-       y="162.53537"
-       x="190.31932"
-       id="image4683"
-       xlink:href="file:///F:/Graphics/gophers/sketch/fairy-tale/armored-knight.png"
-       preserveAspectRatio="none"
-       height="600.93555"
-       width="488.70651" />
   </g>
 </svg>

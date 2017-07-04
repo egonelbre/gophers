@@ -16,7 +16,7 @@
    viewBox="0 0 132.96832 154.41859"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="wwgl.svg"
    style="enable-background:new"
    inkscape:export-filename="F:\wwgl.png"
@@ -116,26 +116,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5901">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend5903" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5926">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend5928" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter4661"
        x="-0.015786342"
        width="1.0315727"
@@ -155,14 +135,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.26771948"
-     inkscape:cx="-468.79065"
+     inkscape:cx="-1318.5607"
      inkscape:cy="-303.91759"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -192,13 +172,7 @@
      transform="translate(-42.815476,-64.201235)"
      style="display:inline">
     <g
-       aria-label="func WomenWhoGo() []Achievement {
-				return []Achievement{
-								Confidence,
-								Knowledge,
-								Friendship,
-				}
-}"
+       aria-label="func WomenWhoGo() []Achievement {     return []Achievement{         Confidence,         Knowledge,         Friendship,     } }"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.17878628px;line-height:3.87230015px;font-family:Go;-inkscape-font-specification:'Go Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#553941;fill-opacity:1;stroke:none;stroke-width:0.21512778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="text5429">
       <path
@@ -817,7 +791,7 @@
      inkscape:groupmode="layer"
      id="layer25"
      inkscape:label="shadow manual"
-     style="opacity:0.05;filter:url(#filter5926)"
+     style="opacity:0.05;"
      transform="translate(-42.815476,-64.201235)">
     <g
        inkscape:export-ydpi="360.19739"
@@ -1025,7 +999,7 @@
      inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="shadow top"
-     style="display:inline;opacity:0.05;filter:url(#filter5901)"
+     style="display:inline;opacity:0.05;"
      transform="translate(-42.815476,-64.201235)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66030568;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

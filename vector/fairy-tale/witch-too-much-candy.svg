@@ -16,7 +16,7 @@
    viewBox="0 0 582.71993 789.93689"
    id="svg4273"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="witch-too-much-candy.svg"
    style="enable-background:new">
   <defs
@@ -271,16 +271,6 @@
        id="linearGradient4981"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.2429949,0.2101875,-0.2101875,1.2429949,-23.378437,-32.57198)" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5040">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend5042" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -290,16 +280,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="-12.551501"
+     inkscape:cx="-334.28509"
      inkscape:cy="311.96005"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -322,7 +312,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -674,7 +664,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="gopher-shadow"
-     style="opacity:0.13500001;filter:url(#filter5040)"
+     style="display:inline;opacity:0.13500001"
      transform="translate(-35.458208,-86.501485)" />
   <g
      inkscape:groupmode="layer"

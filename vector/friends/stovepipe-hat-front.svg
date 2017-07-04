@@ -199,16 +199,6 @@
        y1="316.13431"
        x2="488.88409"
        y2="316.13431" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4658">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4660" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -218,7 +208,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="20.6086"
+     inkscape:cx="-206.8914"
      inkscape:cy="345.17576"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -345,7 +335,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="gopher-shadow"
-     style="display:inline;opacity:0.06000001;filter:url(#filter4658)"
+     style="display:inline;opacity:0.06000001;"
      transform="translate(-69.745994,-18.112813)">
     <g
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"

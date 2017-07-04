@@ -16,7 +16,7 @@
    viewBox="0 0 536.19169 642.11081"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="liberty.svg"
    style="enable-background:new">
   <defs
@@ -209,16 +209,6 @@
        id="linearGradient4321"
        gradientTransform="matrix(-5.936568,-1.4901166,-1.2735726,5.0738647,-2725.0305,-1604.8888)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4469">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4471" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3542">
@@ -230,26 +220,6 @@
          x="-1174.7097"
          y="-295.40738" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4450">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4452" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4522">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4524" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -259,14 +229,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-97.526505"
+     inkscape:cx="-552.52651"
      inkscape:cy="370.95236"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer10"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -291,7 +261,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -610,7 +580,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="gopher-shadow"
-     style="display:inline;opacity:0.06000001;filter:url(#filter4469)"
+     style="display:inline;opacity:0.06000001;"
      sodipodi:insensitive="true"
      transform="translate(-137.02484,-121.89479)">
     <path
@@ -728,7 +698,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="coat-shadow"
-     style="display:inline;opacity:0.06000001;filter:url(#filter4522)"
+     style="display:inline;opacity:0.06000001;"
      sodipodi:insensitive="true"
      transform="translate(-137.02484,-121.89479)">
     <path
@@ -1069,7 +1039,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="hat-shadow"
-     style="display:inline;opacity:0.06000001;filter:url(#filter4450)"
+     style="display:inline;opacity:0.06000001;"
      transform="translate(-137.02484,-121.89479)">
     <path
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

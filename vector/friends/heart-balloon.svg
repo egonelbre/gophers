@@ -215,26 +215,6 @@
        y1="316.13431"
        x2="488.88409"
        y2="316.13431" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4700">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4702" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4719">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4721" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -244,10 +224,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="108.9729"
-     inkscape:cy="481.09229"
+     inkscape:cx="-134.97894"
+     inkscape:cy="591.40094"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -473,7 +453,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="shadow"
-     style="filter:url(#filter4700);opacity:0.07">
+     style="opacity:0.07">
     <path
        style="opacity:1;fill:#140101;fill-opacity:1;stroke:none;stroke-width:3.53553391;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.63316585"
        d="m 333.03906,291.56055 c -14.28392,4.41492 -27.84806,11.44621 -40.29297,19.54101 -27.25682,18.24528 -49.66722,43.90871 -62.7207,74.11133 -8.31728,19.4812 -15.5092,39.42612 -24.57422,58.58789 -9.53596,20.78852 -18.63882,42.06312 -22.34765,64.78516 -3.65271,18.42924 -0.74186,37.62839 5.01171,55.30859 6.14654,15.76768 14.33254,30.7499 23.53907,44.92774 20.76823,27.4224 48.77866,48.70895 78.73632,65.23046 12.23818,6.37176 24.76554,12.63144 38.09376,16.33985 2.81258,0.61038 2.94931,-3.64593 5.78906,-3.78125 6.73181,-1.94112 13.68469,0.9534 19.66211,3.86328 1.94139,1.86345 2.43965,5.86888 6.07031,5.10937 20.07925,0.10691 39.00027,-10.7093 51.55469,-25.98828 16.3711,-18.3146 24.2213,-41.63325 34.38281,-63.63867 -2.29124,1.13881 -4.57515,2.36041 -6.83008,3.67578 -18.77117,26.54742 -94.39481,51.36173 -144.95703,9.19336 -29.66405,-24.73951 -60.82261,-68.19403 -61.51758,-126.57226 -0.64392,-54.09018 29.8079,-124.01577 100.40039,-200.69336 z"
@@ -549,7 +529,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="shadow 1"
-     style="filter:url(#filter4719);opacity:0.07">
+     style="opacity:0.07">
     <path
        style="opacity:1;fill:#140101;fill-opacity:1;stroke:none;stroke-width:1.76776695;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.63316585"
        d="m 303.46094,269.17969 c -19.33981,5.1585 -36.36072,18.87784 -45.35742,36.82031 -5.63877,11.05079 -8.38983,23.62251 -7.26172,36.01953 0.71917,13.53876 6.60221,26.60537 15.46875,36.76563 13.77365,15.6511 34.63014,24.35607 55.37695,24.17382 18.45338,0.60537 37.28176,-5.50406 51.41602,-17.46093 -5.91353,0.60958 -12.88274,3.16032 -20.25804,4.2248 -19.90592,2.87303 -37.45219,0.26743 -60.81032,-12.02168 -24.32055,-12.79546 -27.92985,-40.65826 -26.51563,-58.33594 0.7926,-9.90745 10.59364,-34.28128 37.94141,-50.18554 z"
@@ -683,7 +663,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="palette"
-     style="display:inline"
+     style="display:none"
      transform="translate(-9.8491952,22.115612)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4168);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.21052647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"

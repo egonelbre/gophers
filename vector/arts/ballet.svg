@@ -321,9 +321,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6361898"
-     inkscape:cx="338.22995"
-     inkscape:cy="455.11489"
+     inkscape:zoom="0.28924023"
+     inkscape:cx="-343.73722"
+     inkscape:cy="-39.632463"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1018,7 +1018,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="palette"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true"
      transform="translate(-60.177304,-216.4845)">
     <rect

@@ -16,12 +16,13 @@
    viewBox="0 0 510.84415 459.41029"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="soldering.svg"
    style="enable-background:new"
    inkscape:export-filename="F:\christmas.png"
    inkscape:export-xdpi="90.23912"
-   inkscape:export-ydpi="90.23912">
+   inkscape:export-ydpi="90.23912"
+   enable-background="new">
   <defs
      id="defs4">
     <linearGradient
@@ -186,16 +187,6 @@
        xlink:href="#gopher-limbs"
        id="linearGradient4279"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4469">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4471" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#gopher-body"
@@ -291,14 +282,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="315.25649"
+     inkscape:cx="87.75649"
      inkscape:cy="120.06624"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -323,7 +314,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -472,7 +463,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="gopher-shadow"
-     style="display:inline;opacity:0.06000001;filter:url(#filter4469)"
+     style="display:inline;opacity:0.06000001;"
      transform="translate(-78.296503,-206.26013)" />
   <g
      inkscape:groupmode="layer"
@@ -902,7 +893,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="light"
-     style="filter:url(#filter4857)"
+     style=""
      transform="translate(-25.172137,-139.6986)" />
   <g
      inkscape:groupmode="layer"

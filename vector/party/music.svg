@@ -17,7 +17,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="music-2.svg"
+   sodipodi:docname="music.svg"
    style="enable-background:new"
    enable-background="new">
   <defs
@@ -218,16 +218,6 @@
        id="linearGradient4321"
        gradientTransform="matrix(3.1924827,1.2499651,-1.0683199,2.7285505,1565.0681,646.21213)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4469">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4471" />
-    </filter>
     <inkscape:path-effect
        effect="simplify"
        id="path-effect4684"
@@ -252,16 +242,6 @@
        simplify_just_coalesce="false"
        simplifyindividualpaths="false"
        simplifyJustCoalesce="false" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4689">
-      <feBlend
-         inkscape:collect="always"
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend4691" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -271,10 +251,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.76274166"
-     inkscape:cx="453.01091"
+     inkscape:cx="154.74478"
      inkscape:cy="389.58116"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -491,7 +471,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="gopher-shadow"
-     style="opacity:0.06000001;filter:url(#filter4469)"
+     style="opacity:0.06000001;"
      transform="translate(-136.35428,-236.92931)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -643,7 +623,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="gopher-eye-shadow"
-     style="filter:url(#filter4689);opacity:0.06">
+     style="opacity:0.06">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32776499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 175.66406 101.61133 C 172.40055 102.12806 169.1691 102.85968 165.99805 103.82031 C 157.13896 106.36364 148.72237 110.55467 141.29883 116.01172 C 126.2398 127.06917 115.80913 144.82119 115.13867 163.6582 C 113.77629 183.23021 121.81245 202.62752 134.45508 217.30664 C 148.75843 233.95356 169.54789 245.22263 191.57031 246.74805 C 199.75594 247.14639 208.09119 246.37125 215.96094 244.02344 C 227.61155 240.37815 238.39605 233.76171 246.44727 224.52734 C 246.49456 224.47549 246.53882 224.42114 246.58594 224.36914 C 227.82197 237.23677 205.46457 244.36382 182.08789 233.63477 C 149.96993 218.89377 114.85319 178.19057 140.99219 133.44336 C 147.10406 122.98047 158.74933 111.27781 175.66406 101.61133 z "
