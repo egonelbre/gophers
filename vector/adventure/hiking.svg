@@ -276,14 +276,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="137.98382"
+     inkscape:cx="-505.48335"
      inkscape:cy="5.0994358"
      inkscape:document-units="px"
      inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -341,7 +341,7 @@
      id="layer8"
      inkscape:label="ground"
      transform="translate(0.2136505,-223.25895)"
-     style="display:none">
+     style="display:inline">
     <path
        sodipodi:nodetypes="cccccccccccccccccccccscsssssssssssssssc"
        inkscape:connector-curvature="0"
@@ -359,7 +359,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="ground-circle"
-     style="display:inline">
+     style="display:none">
     <circle
        r="344.19299"
        cy="242.09117"

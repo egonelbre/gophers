@@ -28,9 +28,11 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/arts/ballet.png">](vector/arts/ballet.svg)
 [<img src=".thumb/vector/arts/upright.png">](vector/arts/upright.svg)
 [<img src=".thumb/vector/computer/gamer.png">](vector/computer/gamer.svg)
+[<img src=".thumb/vector/computer/music.png">](vector/computer/music.svg)
 [<img src=".thumb/vector/dandy/umbrella.png">](vector/dandy/umbrella.svg)
 [<img src=".thumb/vector/fairy-tale/king.png">](vector/fairy-tale/king.svg)
 [<img src=".thumb/vector/fairy-tale/knight.png">](vector/fairy-tale/knight.svg)
+[<img src=".thumb/vector/fairy-tale/sage.png">](vector/fairy-tale/sage.svg)
 [<img src=".thumb/vector/fairy-tale/witch-learning.png">](vector/fairy-tale/witch-learning.svg)
 [<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
@@ -55,6 +57,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
 [<img src=".thumb/vector/science/soldering.png">](vector/science/soldering.svg)
+[<img src=".thumb/vector/superhero/lifting-1TB.png">](vector/superhero/lifting-1TB.svg)
 [<img src=".thumb/vector/superhero/standing.png">](vector/superhero/standing.svg)
 
 
