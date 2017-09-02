@@ -273,9 +273,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="1297.8378"
-     inkscape:cy="418.45571"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="537.96339"
+     inkscape:cy="295.26864"
      inkscape:document-units="px"
      inkscape:current-layer="g515"
      showgrid="false"
@@ -286,7 +286,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      fit-margin-top="5"
      fit-margin-right="5"
@@ -1387,7 +1387,6 @@
     <g
        inkscape:groupmode="layer"
        id="layer8001"
-       center-inkscape:label="cape"
        style="display:inline"
        inkscape:label="center-cape-back">
       <path
