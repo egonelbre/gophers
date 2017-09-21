@@ -13,7 +13,7 @@ Do note that, the Go gopher was designed by [Renee French](http://reneefrench.bl
 The Gopher character design is licensed under the Creative Commons 3.0 Attributions license.
 Read http://blog.golang.org/gopher for more details.
 
-<img src=".thumb/animation/morning-coffee-3x.gif "> <img src=".thumb/animation/gopher-dance-long-3x.gif ">
+<img src=".thumb/animation/morning-coffee-3x.gif "> <img src=".thumb/animation/gopher-dance-long-3x.gif ">  <img src=".thumb/icon/gotham-3x.png ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
 
@@ -38,6 +38,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
 [<img src=".thumb/vector/friends/empire-silhouette.png">](vector/friends/empire-silhouette.svg)
 [<img src=".thumb/vector/friends/heart-balloon.png">](vector/friends/heart-balloon.svg)
+[<img src=".thumb/vector/friends/heart-hug.png">](vector/friends/heart-hug.svg)
 [<img src=".thumb/vector/friends/hugging-docker.png">](vector/friends/hugging-docker.svg)
 [<img src=".thumb/vector/friends/liberty.png">](vector/friends/liberty.svg)
 [<img src=".thumb/vector/friends/stovepipe-hat-front.png">](vector/friends/stovepipe-hat-front.svg)
@@ -57,6 +58,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
 [<img src=".thumb/vector/science/soldering.png">](vector/science/soldering.svg)
+[<img src=".thumb/vector/superhero/gotham.png">](vector/superhero/gotham.svg)
 [<img src=".thumb/vector/superhero/lifting-1TB.png">](vector/superhero/lifting-1TB.svg)
 [<img src=".thumb/vector/superhero/standing.png">](vector/superhero/standing.svg)
 
