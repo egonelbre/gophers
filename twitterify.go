@@ -20,9 +20,12 @@ var (
 	repeat      = flag.Int("repeat", 3, "repeat count")
 	transparent = flag.Bool("transparent", false, "transparent background")
 	duplicate   = flag.Bool("duplicate", false, "use duplication instead of repeating animation")
+	duration    = flag.Int("duration", 0, "override frame duration")
 )
 
 func handleGif(infile io.Reader, outfile io.Writer) error {
+	// TODO: fix handling of different disposals
+
 	source, err := gif.DecodeAll(infile)
 	if err != nil {
 		return fmt.Errorf("failed to decode gif: %v", err)
@@ -58,22 +61,27 @@ func handleGif(infile io.Reader, outfile io.Writer) error {
 		}
 		draw.Draw(d, m.Bounds().Add(offset), m, image.ZP, draw.Src)
 
+		delay := source.Delay[i]
+		if *duration > 0 {
+			delay = *duration
+		}
+
 		if *duplicate {
 			target.Image = append(target.Image, d)
-			target.Delay = append(target.Delay, source.Delay[i]/2)
+			target.Delay = append(target.Delay, delay/2)
 			if len(source.Disposal) > 0 {
 				target.Disposal = append(target.Disposal, source.Disposal[i])
 			}
 			if i != len(source.Image)-1 {
 				target.Image = append(target.Image, d)
-				target.Delay = append(target.Delay, source.Delay[i]/2)
+				target.Delay = append(target.Delay, delay/2)
 				if len(source.Disposal) > 0 {
 					target.Disposal = append(target.Disposal, source.Disposal[i])
 				}
 			}
 		} else {
 			target.Image = append(target.Image, d)
-			target.Delay = append(target.Delay, source.Delay[i])
+			target.Delay = append(target.Delay, delay)
 			if len(source.Disposal) > 0 {
 				target.Disposal = append(target.Disposal, source.Disposal[i])
 			}
