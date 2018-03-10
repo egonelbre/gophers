@@ -59,7 +59,7 @@ func handleGif(infile io.Reader, outfile io.Writer) error {
 				d.Pix[k] = m.Pix[0]
 			}
 		}
-		draw.Draw(d, m.Bounds().Add(offset), m, image.ZP, draw.Src)
+		draw.Draw(d, m.Bounds().Add(offset), m, image.ZP, draw.Over)
 
 		delay := source.Delay[i]
 		if *duration > 0 {
