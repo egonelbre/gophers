@@ -1,5 +1,6 @@
-{ "frames": {
-   "emoji 0.ase": {
+{ "frames": [
+   {
+    "filename": "emoji 0.ase",
     "frame": { "x": 0, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -7,7 +8,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 1.ase": {
+   {
+    "filename": "emoji 1.ase",
     "frame": { "x": 32, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -15,7 +17,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 2.ase": {
+   {
+    "filename": "emoji 2.ase",
     "frame": { "x": 64, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -23,7 +26,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 3.ase": {
+   {
+    "filename": "emoji 3.ase",
     "frame": { "x": 96, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -31,7 +35,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 4.ase": {
+   {
+    "filename": "emoji 4.ase",
     "frame": { "x": 128, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -39,7 +44,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 5.ase": {
+   {
+    "filename": "emoji 5.ase",
     "frame": { "x": 0, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -47,7 +53,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 6.ase": {
+   {
+    "filename": "emoji 6.ase",
     "frame": { "x": 32, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -55,7 +62,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 7.ase": {
+   {
+    "filename": "emoji 7.ase",
     "frame": { "x": 64, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -63,7 +71,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 8.ase": {
+   {
+    "filename": "emoji 8.ase",
     "frame": { "x": 96, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -71,7 +80,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 9.ase": {
+   {
+    "filename": "emoji 9.ase",
     "frame": { "x": 128, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -79,7 +89,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 10.ase": {
+   {
+    "filename": "emoji 10.ase",
     "frame": { "x": 0, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -87,7 +98,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 11.ase": {
+   {
+    "filename": "emoji 11.ase",
     "frame": { "x": 32, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -95,7 +107,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 12.ase": {
+   {
+    "filename": "emoji 12.ase",
     "frame": { "x": 64, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -103,7 +116,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 13.ase": {
+   {
+    "filename": "emoji 13.ase",
     "frame": { "x": 96, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -111,7 +125,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 14.ase": {
+   {
+    "filename": "emoji 14.ase",
     "frame": { "x": 128, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -119,7 +134,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 15.ase": {
+   {
+    "filename": "emoji 15.ase",
     "frame": { "x": 0, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -127,7 +143,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 16.ase": {
+   {
+    "filename": "emoji 16.ase",
     "frame": { "x": 32, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -135,7 +152,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 17.ase": {
+   {
+    "filename": "emoji 17.ase",
     "frame": { "x": 64, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -143,7 +161,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 18.ase": {
+   {
+    "filename": "emoji 18.ase",
     "frame": { "x": 96, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -151,7 +170,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 19.ase": {
+   {
+    "filename": "emoji 19.ase",
     "frame": { "x": 128, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -159,7 +179,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 20.ase": {
+   {
+    "filename": "emoji 20.ase",
     "frame": { "x": 0, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -167,7 +188,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 21.ase": {
+   {
+    "filename": "emoji 21.ase",
     "frame": { "x": 32, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -175,7 +197,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 22.ase": {
+   {
+    "filename": "emoji 22.ase",
     "frame": { "x": 64, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -183,7 +206,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 23.ase": {
+   {
+    "filename": "emoji 23.ase",
     "frame": { "x": 96, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -191,7 +215,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 24.ase": {
+   {
+    "filename": "emoji 24.ase",
     "frame": { "x": 128, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -199,7 +224,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 25.ase": {
+   {
+    "filename": "emoji 25.ase",
     "frame": { "x": 0, "y": 160, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -207,7 +233,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 26.ase": {
+   {
+    "filename": "emoji 26.ase",
     "frame": { "x": 32, "y": 160, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -215,7 +242,8 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    },
-   "emoji 27.ase": {
+   {
+    "filename": "emoji 27.ase",
     "frame": { "x": 64, "y": 160, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
@@ -223,7 +251,7 @@
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
    }
- },
+ ],
  "meta": {
   "app": "http://www.aseprite.org/",
   "version": "1.2.6-x64",
