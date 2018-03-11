@@ -16,7 +16,7 @@ import (
 
 var (
 	width       = flag.Int("width", 506, "target min width")
-	height      = flag.Int("height", 0, "target min height")
+	height      = flag.Int("height", 128, "target min height")
 	repeat      = flag.Int("repeat", 3, "repeat count")
 	transparent = flag.Bool("transparent", false, "transparent background")
 	duplicate   = flag.Bool("duplicate", false, "use duplication instead of repeating animation")
@@ -130,9 +130,9 @@ func handlePng(infile io.Reader, outfile io.Writer) error {
 
 	target := image.NewRGBA(image.Rectangle{image.ZP, size})
 	if !*transparent {
-		draw.Draw(target, target.Bounds(), &image.Uniform{color.White}, image.ZP, draw.Src)
+		draw.Draw(target, target.Bounds(), &image.Uniform{color.White}, image.ZP, draw.Over)
 	}
-	draw.Draw(target, source.Bounds().Add(offset), source, image.ZP, draw.Src)
+	draw.Draw(target, source.Bounds().Add(offset), source, image.ZP, draw.Over)
 
 	err = png.Encode(outfile, target)
 	if err != nil {
