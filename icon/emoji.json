@@ -46,7 +46,7 @@
    },
    {
     "filename": "emoji 5.ase",
-    "frame": { "x": 0, "y": 32, "w": 32, "h": 32 },
+    "frame": { "x": 160, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -55,7 +55,7 @@
    },
    {
     "filename": "emoji 6.ase",
-    "frame": { "x": 32, "y": 32, "w": 32, "h": 32 },
+    "frame": { "x": 192, "y": 0, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -64,7 +64,7 @@
    },
    {
     "filename": "emoji 7.ase",
-    "frame": { "x": 64, "y": 32, "w": 32, "h": 32 },
+    "frame": { "x": 0, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -73,7 +73,7 @@
    },
    {
     "filename": "emoji 8.ase",
-    "frame": { "x": 96, "y": 32, "w": 32, "h": 32 },
+    "frame": { "x": 32, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -82,7 +82,7 @@
    },
    {
     "filename": "emoji 9.ase",
-    "frame": { "x": 128, "y": 32, "w": 32, "h": 32 },
+    "frame": { "x": 64, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -91,7 +91,7 @@
    },
    {
     "filename": "emoji 10.ase",
-    "frame": { "x": 0, "y": 64, "w": 32, "h": 32 },
+    "frame": { "x": 96, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -100,7 +100,7 @@
    },
    {
     "filename": "emoji 11.ase",
-    "frame": { "x": 32, "y": 64, "w": 32, "h": 32 },
+    "frame": { "x": 128, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -109,7 +109,7 @@
    },
    {
     "filename": "emoji 12.ase",
-    "frame": { "x": 64, "y": 64, "w": 32, "h": 32 },
+    "frame": { "x": 160, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -118,7 +118,7 @@
    },
    {
     "filename": "emoji 13.ase",
-    "frame": { "x": 96, "y": 64, "w": 32, "h": 32 },
+    "frame": { "x": 192, "y": 32, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -127,7 +127,7 @@
    },
    {
     "filename": "emoji 14.ase",
-    "frame": { "x": 128, "y": 64, "w": 32, "h": 32 },
+    "frame": { "x": 0, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -136,7 +136,7 @@
    },
    {
     "filename": "emoji 15.ase",
-    "frame": { "x": 0, "y": 96, "w": 32, "h": 32 },
+    "frame": { "x": 32, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -145,7 +145,7 @@
    },
    {
     "filename": "emoji 16.ase",
-    "frame": { "x": 32, "y": 96, "w": 32, "h": 32 },
+    "frame": { "x": 64, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -154,7 +154,7 @@
    },
    {
     "filename": "emoji 17.ase",
-    "frame": { "x": 64, "y": 96, "w": 32, "h": 32 },
+    "frame": { "x": 96, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -163,7 +163,7 @@
    },
    {
     "filename": "emoji 18.ase",
-    "frame": { "x": 96, "y": 96, "w": 32, "h": 32 },
+    "frame": { "x": 128, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -172,7 +172,7 @@
    },
    {
     "filename": "emoji 19.ase",
-    "frame": { "x": 128, "y": 96, "w": 32, "h": 32 },
+    "frame": { "x": 160, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -181,7 +181,7 @@
    },
    {
     "filename": "emoji 20.ase",
-    "frame": { "x": 0, "y": 128, "w": 32, "h": 32 },
+    "frame": { "x": 192, "y": 64, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -190,7 +190,7 @@
    },
    {
     "filename": "emoji 21.ase",
-    "frame": { "x": 32, "y": 128, "w": 32, "h": 32 },
+    "frame": { "x": 0, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -199,7 +199,7 @@
    },
    {
     "filename": "emoji 22.ase",
-    "frame": { "x": 64, "y": 128, "w": 32, "h": 32 },
+    "frame": { "x": 32, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -208,7 +208,7 @@
    },
    {
     "filename": "emoji 23.ase",
-    "frame": { "x": 96, "y": 128, "w": 32, "h": 32 },
+    "frame": { "x": 64, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -217,7 +217,7 @@
    },
    {
     "filename": "emoji 24.ase",
-    "frame": { "x": 128, "y": 128, "w": 32, "h": 32 },
+    "frame": { "x": 96, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -226,7 +226,7 @@
    },
    {
     "filename": "emoji 25.ase",
-    "frame": { "x": 0, "y": 160, "w": 32, "h": 32 },
+    "frame": { "x": 128, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -235,7 +235,7 @@
    },
    {
     "filename": "emoji 26.ase",
-    "frame": { "x": 32, "y": 160, "w": 32, "h": 32 },
+    "frame": { "x": 160, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -244,7 +244,7 @@
    },
    {
     "filename": "emoji 27.ase",
-    "frame": { "x": 64, "y": 160, "w": 32, "h": 32 },
+    "frame": { "x": 192, "y": 96, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -253,7 +253,7 @@
    },
    {
     "filename": "emoji 28.ase",
-    "frame": { "x": 96, "y": 160, "w": 32, "h": 32 },
+    "frame": { "x": 0, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -262,7 +262,7 @@
    },
    {
     "filename": "emoji 29.ase",
-    "frame": { "x": 128, "y": 160, "w": 32, "h": 32 },
+    "frame": { "x": 32, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -271,7 +271,7 @@
    },
    {
     "filename": "emoji 30.ase",
-    "frame": { "x": 0, "y": 192, "w": 32, "h": 32 },
+    "frame": { "x": 64, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -280,7 +280,7 @@
    },
    {
     "filename": "emoji 31.ase",
-    "frame": { "x": 32, "y": 192, "w": 32, "h": 32 },
+    "frame": { "x": 96, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -289,7 +289,7 @@
    },
    {
     "filename": "emoji 32.ase",
-    "frame": { "x": 64, "y": 192, "w": 32, "h": 32 },
+    "frame": { "x": 128, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -298,7 +298,7 @@
    },
    {
     "filename": "emoji 33.ase",
-    "frame": { "x": 96, "y": 192, "w": 32, "h": 32 },
+    "frame": { "x": 160, "y": 128, "w": 32, "h": 32 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
@@ -311,7 +311,7 @@
   "version": "1.2.6-x64",
   "image": "icon/emoji.png",
   "format": "RGBA8888",
-  "size": { "w": 160, "h": 224 },
+  "size": { "w": 224, "h": 160 },
   "scale": "1"
  }
 }
