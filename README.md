@@ -37,6 +37,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/fairy-tale/sage.png">](vector/fairy-tale/sage.svg)
 [<img src=".thumb/vector/fairy-tale/witch-learning.png">](vector/fairy-tale/witch-learning.svg)
 [<img src=".thumb/vector/fairy-tale/witch-too-much-candy.png">](vector/fairy-tale/witch-too-much-candy.svg)
+[<img src=".thumb/vector/friends/crash-dummy.png">](vector/friends/crash-dummy.svg)
 [<img src=".thumb/vector/friends/docker.png">](vector/friends/docker.svg)
 [<img src=".thumb/vector/friends/empire-silhouette.png">](vector/friends/empire-silhouette.svg)
 [<img src=".thumb/vector/friends/heart-balloon.png">](vector/friends/heart-balloon.svg)

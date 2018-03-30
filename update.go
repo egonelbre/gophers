@@ -236,6 +236,10 @@ func MakeThumbs(name, folder, output string) *Thumbs {
 	thumbs.Folder = folder
 
 	for _, file := range files {
+		if strings.Contains(file.Name(), ".sheet.") {
+			continue
+		}
+
 		path := filepath.Join(folder, file.Name())
 		log.Printf("> add: %v\n", path)
 
