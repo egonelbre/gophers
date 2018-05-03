@@ -9,16 +9,15 @@ However, if you do use something, you are encouraged to:
 * submit new ideas via twitter @egonelbre
 * request some sketch to be vectorized
 
-Do note that, the Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/).
-The Gopher character design is licensed under the Creative Commons 3.0 Attributions license.
-Read http://blog.golang.org/gopher for more details.
+<a target="_blank" href="https://www.buymeacoffee.com/egon"><img alt="Buy me a Coffee" src=".thumb/animation/buy-morning-coffee-3x.gif"></a>
+
+The Go gopher was designed by the awesome [Renee French](http://reneefrench.blogspot.com/). The Gopher character design is licensed under the Creative Commons 3.0 Attributions license. Read http://blog.golang.org/gopher for more details.
 
 <img src=".thumb/icon/emoji-3x.png ">
 
-<img src=".thumb/animation/morning-coffee-3x.gif "> <img src=".thumb/animation/gopher-dance-long-3x.gif "> <img src=".thumb/icon/gotham-3x.png ">
+<img src=".thumb/animation/gopher-dance-long-3x.gif "> <img src=".thumb/icon/gotham-3x.png ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
-
 
 
 # Vector
