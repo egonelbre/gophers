@@ -304,11 +304,20 @@
     "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
     "sourceSize": { "w": 32, "h": 32 },
     "duration": 100
+   },
+   {
+    "filename": "emoji 34.ase",
+    "frame": { "x": 192, "y": 128, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
    }
  ],
  "meta": {
   "app": "http://www.aseprite.org/",
-  "version": "1.2.6-x64",
+  "version": "1.2.8-x64",
   "image": "icon/emoji.png",
   "format": "RGBA8888",
   "size": { "w": 224, "h": 160 },
