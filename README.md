@@ -1,6 +1,8 @@
 
 # Gophers....
 
+The Go gopher was designed by the awesome [Renee French](http://reneefrench.blogspot.com/). Read http://blog.golang.org/gopher for more details.
+
 The images and art-work in this repository are under [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 However, if you do use something, you are encouraged to:
@@ -9,15 +11,16 @@ However, if you do use something, you are encouraged to:
 * submit new ideas via twitter @egonelbre
 * request some sketch to be vectorized
 
-<a target="_blank" href="https://www.buymeacoffee.com/egon"><img alt="Buy me a Coffee" src=".thumb/animation/buy-morning-coffee-3x.gif"></a>
+Or if you like to directly support me:
 
-The Go gopher was designed by the awesome [Renee French](http://reneefrench.blogspot.com/). The Gopher character design is licensed under the Creative Commons 3.0 Attributions license. Read http://blog.golang.org/gopher for more details.
+<a target="_blank" href="https://www.buymeacoffee.com/egon"><img alt="Buy me a Coffee" src=".thumb/animation/buy-morning-coffee-3x.gif"></a>
 
 <img src=".thumb/icon/emoji-3x.png ">
 
 <img src=".thumb/animation/gopher-dance-long-3x.gif "> <img src=".thumb/icon/gotham-3x.png ">
 
 <img src=".thumb/animation/2bit-sprite/demo.gif ">
+
 
 
 # Vector
@@ -65,6 +68,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/superhero/gotham.png">](vector/superhero/gotham.svg)
 [<img src=".thumb/vector/superhero/lifting-1TB.png">](vector/superhero/lifting-1TB.svg)
 [<img src=".thumb/vector/superhero/standing.png">](vector/superhero/standing.svg)
+[<img src=".thumb/vector/superhero/zorro.png">](vector/superhero/zorro.svg)
 
 
 
