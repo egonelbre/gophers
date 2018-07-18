@@ -19,7 +19,10 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="power-to-the-mac.svg"
-   style="enable-background:new">
+   style="enable-background:new"
+   inkscape:export-filename="F:\Graphics\gophers\vector\science\power-to-the-mac.png"
+   inkscape:export-xdpi="82.669998"
+   inkscape:export-ydpi="82.669998">
   <defs
      id="defs4275">
     <linearGradient
@@ -134,7 +137,8 @@
        y1="619.57507"
        x2="890.625"
        y2="751.76257"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.1797593e-5)" />
     <linearGradient
        gradientTransform="matrix(-1,0,0,1,1112.1914,-2.8999921)"
        inkscape:collect="always"
@@ -227,10 +231,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="369.51151"
-     inkscape:cy="447.01432"
+     inkscape:cx="506.69022"
+     inkscape:cy="513.48236"
      inkscape:document-units="px"
-     inkscape:current-layer="g5475"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -323,20 +327,21 @@
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="platform shadow"
-     sodipodi:insensitive="true">
+     inkscape:label="platform shadow">
     <path
        style="opacity:1;vector-effect:none;fill:url(#linearGradient5838);fill-opacity:1;stroke:none;stroke-width:1.0629921;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter6123)"
-       d="m 830.62948,637.27519 c 0,0 49.83385,8.96093 75.05046,10.04768 32.12166,1.38433 96.34816,-4.52666 96.34816,-4.52666 9.9388,16.33513 -33.38864,62.72861 -61.39246,66.12874 0,0 -36.30912,-36.58201 -63.82,-43.54259 -1.65728,0.33145 -62.42751,-19.48931 -62.42751,-19.48931 l -17.23573,-4.97184 z"
+       d="m 830.62952,637.27519 c 0,0 49.83385,8.96093 75.05046,10.04768 32.12166,1.38433 96.34812,-4.52666 96.34812,-4.52666 9.9388,16.33513 -33.3886,62.72861 -61.39242,66.12874 0,0 -36.30912,-36.58201 -63.82,-43.54259 -1.65728,0.33145 -62.42751,-19.48931 -62.42751,-19.48931 l -17.23573,-4.97184 z"
        id="path5830"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscccccc" />
+       sodipodi:nodetypes="cscccccc"
+       transform="matrix(1,0,0,-1,2.6516504,1274.3574)" />
     <path
        style="opacity:1;vector-effect:none;fill:url(#linearGradient5838-5);fill-opacity:1;stroke:none;stroke-width:1.06299222;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter6119);enable-background:new"
-       d="m 281.56191,634.37525 c 0,0 -49.83387,8.96093 -75.05048,10.04768 -32.12166,1.38433 -96.34816,-4.52666 -96.34816,-4.52666 -9.9388,16.33513 33.3886,62.72861 61.39246,66.12874 0,0 36.30912,-36.58201 63.82,-43.54259 1.65728,0.33145 62.42748,-19.48931 62.42748,-19.48931 l 17.2358,-4.97184 z"
+       d="m 281.56195,634.37525 c 0,0 -49.83387,8.96093 -75.05048,10.04768 -32.12166,1.38433 -96.34816,-4.52666 -96.34816,-4.52666 -9.9388,16.33513 33.3886,62.72861 61.39246,66.12874 0,0 36.30912,-36.58201 63.82,-43.54259 1.65728,0.33145 62.42748,-19.48931 62.42748,-19.48931 l 17.2358,-4.97184 z"
        id="path5830-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscccccc" />
+       sodipodi:nodetypes="cscccccc"
+       transform="matrix(1,0,0,-1,2.6516504,1274.3574)" />
     <path
        style="opacity:1;vector-effect:none;fill:url(#radialGradient6145);fill-opacity:1;stroke:none;stroke-width:1.0629921;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter6135)"
        d="m 499.21874,710.9813 c 16.40625,-10.3125 9.84375,-14.53125 34.21875,-11.71875 24.375,2.8125 58.59375,-1.875 66.5625,-0.46875 7.96875,1.40625 18.75,11.71875 20.625,15.9375 1.875,4.21875 19.6875,32.8125 17.34375,40.3125 -2.34375,7.5 -37.03125,17.34375 -76.40625,9.84375 -39.375,-7.5 -74.0625,-13.125 -85.78125,-15.46875 -11.71875,-2.34375 23.4375,-38.4375 23.4375,-38.4375 z"
