@@ -116,19 +116,6 @@
          stdDeviation="32.790228"
          id="feGaussianBlur4940" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5665"
-       x="-0.0096026975"
-       width="1.0192054"
-       y="-0.014336613"
-       height="1.0286732">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.0086189"
-         id="feGaussianBlur5667" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5874"
@@ -231,8 +218,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="506.69022"
-     inkscape:cy="513.48236"
+     inkscape:cx="507.39733"
+     inkscape:cy="441.35747"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -295,7 +282,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -303,7 +290,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="background"
-     style="display:inline"
+     style="display:none"
      transform="translate(186.39992,-20.920021)"
      sodipodi:insensitive="true">
     <rect

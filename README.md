@@ -61,6 +61,8 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/science/gas-mask.png">](vector/science/gas-mask.svg)
 [<img src=".thumb/vector/science/jet-pack.png">](vector/science/jet-pack.svg)
 [<img src=".thumb/vector/science/mistake.png">](vector/science/mistake.svg)
+[<img src=".thumb/vector/science/power-to-the-linux.png">](vector/science/power-to-the-linux.svg)
+[<img src=".thumb/vector/science/power-to-the-mac.png">](vector/science/power-to-the-mac.svg)
 [<img src=".thumb/vector/science/power-to-the-masses.png">](vector/science/power-to-the-masses.svg)
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
