@@ -51,6 +51,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/friends/stovepipe-hat.png">](vector/friends/stovepipe-hat.svg)
 [<img src=".thumb/vector/party/birthday.png">](vector/party/birthday.svg)
 [<img src=".thumb/vector/party/music.png">](vector/party/music.svg)
+[<img src=".thumb/vector/projects/emacs-go.png">](vector/projects/emacs-go.svg)
 [<img src=".thumb/vector/projects/go-grpc-web.png">](vector/projects/go-grpc-web.svg)
 [<img src=".thumb/vector/projects/network-side.png">](vector/projects/network-side.svg)
 [<img src=".thumb/vector/projects/network.png">](vector/projects/network.svg)
