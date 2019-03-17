@@ -1,0 +1,133 @@
+<!DOCTYPE>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Hug Recolor</title>
+</head>
+
+<script type="text/javascript">
+	"use strict";
+
+	// https://stackoverflow.com/a/54071699/192220
+
+	function clamp1(v) {
+		return Math.max(Math.min(v, 1), 0);
+	}
+
+	// in: r,g,b in [0,255], out: h in [0,360) and s,v in [0,1]
+	function rgb2hsl(r, g, b) {
+	    r /= 255.0;
+	    g /= 255.0;
+	    b /= 255.0;
+	    return frgb2hsl(r, g, b);
+	}
+
+	// input: h in [0,360] and s,v in [0,1] - output: r,g,b in [0,255]
+	function hsl2rgb(h, s, l) {
+	    var r = hsl2frgb(h, clamp1(s), clamp1(l));
+	    r[0] *= 255.0;
+	    r[1] *= 255.0;
+	    r[2] *= 255.0;
+	    return r;
+	}
+
+	// in: r,g,b in [0,1], out: h in [0,360) and s,v in [0,1]
+	function frgb2hsl(r, g, b) {
+	    let a = Math.max(r, g, b), n = a - Math.min(r, g, b), f = (1 - Math.abs(a + a - n - 1));
+	    let h = n && ((a == r) ? (g - b) / n : ((a == g) ? 2 + (b - r) / n : 4 + (r - g) / n));
+	    return [60 * (h < 0 ? h + 6 : h), f ? n / f : 0, (a + a - n) / 2];
+	}
+
+	// input: h in [0,360] and s,v in [0,1] - output: r,g,b in [0,1]
+	function hsl2frgb(h, s, l) {
+	    let a = s * Math.min(l, 1 - l);
+	    let f = (n, k = (n + h / 30) % 12) => l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
+	    return [f(0), f(8), f(4)];
+	}
+
+	function imageDataFromImage(imageElement) {
+		var canvas = document.createElement('canvas');
+		var context = canvas.getContext('2d');
+		canvas.width = imageElement.width;
+		canvas.height = imageElement.height;
+		context.drawImage(imageElement, 0, 0);
+		return context.getImageData(0, 0, imageElement.width, imageElement.height);
+	}
+	
+	function shiftHue(imagedata, pink, blue) {
+		for (var i = 0; i < imagedata.data.length; i += 4) {
+			var r, g, b;
+			r = imagedata.data[i];
+			g = imagedata.data[i + 1];
+			b = imagedata.data[i + 2];
+
+			var hsl = rgb2hsl(r, g, b);
+			if (200 < hsl[0] && hsl[0] < 230) {
+				hsl[0] += blue.hue*1.0;
+				hsl[1] += blue.saturation*1.0;
+				hsl[2] += blue.light*1.0;
+			} else if (300 < hsl[0] && hsl[0] < 360) {
+				hsl[0] += pink.hue*1.0;
+				hsl[1] += pink.saturation*1.0;
+				hsl[2] += pink.light*1.0;
+			}
+			var rgb = hsl2rgb(hsl[0], hsl[1], hsl[2]);
+
+			imagedata.data[i] = rgb[0];
+			imagedata.data[i + 1] = rgb[1];
+			imagedata.data[i + 2] = rgb[2];
+		}
+	}
+
+	function recolor() {
+		var canvas = document.getElementById("recolored");
+		var reference = document.getElementById("reference");
+		var context = canvas.getContext("2d");
+
+		canvas.width = reference.naturalWidth;
+		canvas.height = reference.naturalHeight;
+		context.clearRect(0, 0, context.width, context.height);
+
+		var data = imageDataFromImage(reference);
+		shiftHue(data, {
+			hue: document.getElementById("pink-shift").value,
+			saturation: document.getElementById("pink-saturation").value,
+			light: document.getElementById("pink-light").value
+		}, {
+			hue: document.getElementById("blue-shift").value,
+			saturation: document.getElementById("blue-saturation").value,
+			light: document.getElementById("blue-light").value
+		});
+
+		context.putImageData(data, 0, 0);
+	}
+
+	function reset(element){
+		element.value = 0;
+		recolor();
+	}
+</script>
+
+<body onload="recolor()">
+	<img id="reference" style="image-rendering: pixelated; width: 256px;" src="hug-colorable.png" />
+	<canvas id="recolored" style="image-rendering: pixelated; width: 256px;"></canvas><br>
+	<table>
+		<tr>
+			<td>Hue</td>
+			<td><input type="range" id="pink-shift" ondblclick="reset(this)" oninput="recolor()" min=-180 max=180 value=30 step=1></td>
+			<td><input type="range" id="blue-shift" ondblclick="reset(this)" oninput="recolor()" min=-180 max=180 value=30 step=1></td>
+		</tr>
+		<tr>
+			<td>Saturation</td>
+			<td><input type="range" id="pink-saturation" ondblclick="reset(this)" oninput="recolor()" min=-1 max=1 value=0 step=0.01></td>
+			<td><input type="range" id="blue-saturation" ondblclick="reset(this)" oninput="recolor()" min=-1 max=1 value=0 step=0.01></td>
+		</tr>
+		<tr>
+			<td>Lightness</td>
+			<td><input type="range" id="pink-light" ondblclick="reset(this)" oninput="recolor()" min=-1 max=1 value=0 step=0.01></td>
+			<td><input type="range" id="blue-light" ondblclick="reset(this)" oninput="recolor()" min=-1 max=1 value=0 step=0.01></td>
+		</tr>
+	</table>
+</body>
+</html>
